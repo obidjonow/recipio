@@ -12,12 +12,10 @@
                     "500g sabzi",
                     "2 dona piyoz",
                     "150ml o'simlik yog'i",
-                    "1 bosh sarimsoq",
-                    "1 dona achchiq qalampir",
-                    "Tuz, zira, qora murch",
-                    "1 litr suv"
+                    "Tuz, zira, 50g mag'iz va 50g noxot",
+                    "1.5 litr suv"
                 ],
-                "instructions": "Guruchni yaxshilab yuvib, iliq sho'r suvda ivitib qo'ying. Qozonda yog'ni qizdirib, go'shtni qizarguncha qovuring. Piyozni qo'shib qovuring, so'ngra somoncha to'g'ralgan sabzini soling. Sabzi yumshagach, suv quyib zirvakni tayyorlang. Tuz, zira va qora murch qo'shing. Zirvak qaynatilgach, ivitilgan guruchni solib tekislang. Suvini tortgach, sarimsoq va qalampirni qo'shib, qopqog'ini yopib past olovda dimlab pishiring."
+                "instructions": "Qozonga yog'(o'simlik yog'i) solinadi, piyoz solinadi piyoz tilla rangga kirgandan keyin go'sht solinadi yaxshilab qo'vuramiz jigarrang rangga kirganda somoncha shaklidagi sabzini solamiz, shu massaliqlarni 10-15 minut qovuramiz, 1.5 litr suv solamiz so'ngra osh mag'izi va uyitilgan noxot va tabga kora tuz solamiz, o'rta olovda 30 minut qaynatib qo'yamiz, zirvak hosil bo'lguncha, guruchimizni tozalab yuvib olamiz, bir qoshiq tuz solib, 5 minutga ivitib qo'yamiz so'ngra suvini to'kib tashlab hosil bo'lgan zirvak ustiga guruchimizni tekkislab solamiz guruchimiz zirvak suvni tortguncha 2-3 martta guruchimizni o'giramiz, so'ngra tabga ko'ra zira solamiz 15-20 minutga past olovda oshimizni qopqog'ini yopib damlab qo'yamiz. YOQIMLI ISHTAXA!"
             },
             {
                 "id": 2,
@@ -32,10 +30,10 @@
                     "150ml o'simlik yog'i",
                     "1 bosh sarimsoq",
                     "1 dona achchiq qalampir",
-                    "Tuz, zira, qora murch",
-                    "1 litr suv"
+                    "Tuz, zira",
+                    "1.5 litr suv"
                 ],
-                "instructions": "Guruchni yuvib, suvga ivitib qo'ying. Qozonda yog'ni qizdirib, go'shtni qovuring. Piyozni qo'shib tillarang bo'lguncha qovuring. Sabzini somoncha qilib to'g'rab soling va bir necha daqiqa qovuring. Suv quyib, tuz va ziravorlar qo'shib zirvakni qaynatib oling. Guruchni solib, suvini tortguncha pishiring. Sarimsoq va qalampirni qo'shib, qopqog'ini yopib past olovda 20-25 daqiqa dimlang."
+                "instructions": "Qozonimizni qizdiramiz kubik shakildagi qo'y dumba yog'ini solamiz, yog'i chiqqandan song jizzasini olib qo'yamiz so'ngra piyozimizni solamiz tilla rangdan to'qroq bo'lganidan so'ng kubik shaklida to'g'ralgan go'shtimizni solamiz so'ngra qovuramiz, jiggarang tusga kirganidan so'ng somoncha shaklidagi sabzimizni solamiz solingan massaliqlarni 10-15 minut yaxshilab qo'vuramiz so'ngra 1.5 litr suv solamiz so'ngra olib qo'ygan jizzamizni ham solib tabga ko'ra tuz ham solamiz, zirvak hosil bo'lguncha qaynatib qo'yamiz so'ngra guruchimizni ikki uch marotaba yuvib 1 qoshiq tuz solib 5 minutga ivitib qo'yamiz hosil bo'lgan zirvakimiz ustiga guruchni tekkislab solib qo'yamiz guruchimiz tayyor bo'lguncha ikki uch marotaba o'girib qo'yamiz so'ngra tabga ko'ra zira solamiz va acchiq qalampir va sarimsoq solib past olovda 15-20 minut qopqog'ini yopib damlab qo'yamiz."
             },
             {
                 "id": 3,

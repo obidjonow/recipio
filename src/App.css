@@ -21,12 +21,14 @@ body {
 }
 
 .section1 {
-  padding: 2.5% 0px;
-  max-width: 1030px;
+  max-width: 1300px;
   margin: 0 auto;
+  padding: 2.5% 0px;
 }
 
 .main {
+  max-width: 1400px;
+  margin: 0 auto;
   padding: 3% 0px;
   display: flex;
   align-items: center;
@@ -163,7 +165,9 @@ p {
 }
 
 .section2 {
-  padding: 3%;
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 3% 0;
 }
 
 
