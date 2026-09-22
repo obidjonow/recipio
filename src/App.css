@@ -21,9 +21,9 @@ body {
 }
 
 .section1 {
-  max-width: 1300px;
+  max-width: 1330px;
   margin: 0 auto;
-  padding: 2.5% 0px;
+  padding: 2.5% 30px;
 }
 
 .main {
@@ -165,9 +165,9 @@ p {
 }
 
 .section2 {
-  max-width: 1300px;
+  max-width: 1330px;
   margin: 0 auto;
-  padding: 3% 0;
+  padding: 3% 30px;
 }
 
 
