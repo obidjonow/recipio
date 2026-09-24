@@ -1,840 +1,848 @@
 {
-"recipio": [
-[
-{
-"id": 1,
-"name": "To'y Oshi",
-"category": "Quyuq Taomlar",
-"image": "https://cdn.zoomda.uz/products/2026/05/20/1779262381639333628.webp",
-"ingredients": [
-"500 g qo'y go'shti",
-"500 g devzira guruchi",
-"500 g sabzi",
-"2 dona piyoz",
-"150 ml o'simlik yog'i",
-"50 g mag'iz",
-"50 g no'xat",
-"Tuz va zira",
-"1,5 litr suv"
-],
-"instructions": "Qozonni yaxshilab qizdirib, o'simlik yog'ini soling. Piyozni qo'shib, tillarang tusga kirguncha qovuring. Go'shtni yirik bo'laklarga bo'lib, qozonga soling va jigarrang tusga kirguncha qovuring. Somoncha shaklida to'g'ralgan sabzini qo'shib, barcha masalliqlarni 10–15 daqiqa qovuring. 1,5 litr suv quying. Tuz, mag'iz va oldindan ivitilgan no'xatni qo'shing. Zirvakni o'rtacha olovda taxminan 30 daqiqa qaynatib pishiring. Guruchni bir necha marta yaxshilab yuvib, 5 daqiqa tuzli suvda iviting va suvini to'kib tashlang. Guruchni zirvak ustiga tekis qilib soling. Guruch suvni tortguncha ehtiyotkorlik bilan 2–3 marta aylantiring. Ta'bga ko'ra zira seping. Guruch suvni tortib olgach, qopqog'ini yopib, past olovda 15–20 daqiqa damlab pishiring. Tayyor oshni ehtiyotkorlik bilan aralashtirib, dasturxonga torting. Yoqimli ishtaha!"
-},
-{
-"id": 2,
-"name": "Choyxona Oshi",
-"category": "Quyuq Taomlar",
-"image": "https://cdn.zoomda.uz/products/2026/05/20/1779262417085284230.webp",
-"ingredients": [
-"500 g mol go'shti",
-"500 g guruch",
-"500 g sabzi",
-"2 dona piyoz",
-"150 ml o'simlik yog'i",
-"1 bosh sarimsoq",
-"1 dona achchiq qalampir",
-"Tuz va zira",
-"1,5 litr suv"
-],
-"instructions": "Qozonni yaxshilab qizdirib, o'simlik yog'ini soling. Piyozni qo'shib, to'q tillarang tusga kirguncha qovuring. Kub shaklida to'g'ralgan go'shtni solib, jigarrang tusga kirguncha qovuring. Somoncha shaklida to'g'ralgan sabzini qo'shib, 10–15 daqiqa qovuring. 1,5 litr suv quying va tuz qo'shing. Zirvakni go'sht yumshaguncha qaynatib pishiring. Guruchni yaxshilab yuvib, 5 daqiqa tuzli suvda iviting va suvini to'kib tashlang. Guruchni zirvak ustiga tekis qilib soling. Guruch suvni tortguncha ehtiyotkorlik bilan 2–3 marta aylantiring. Ta'bga ko'ra zira, sarimsoq va achchiq qalampirni qo'shing. Guruch suvni tortib olgach, qopqog'ini yopib, past olovda 15–20 daqiqa damlab pishiring. Tayyor oshni aralashtirib, dasturxonga torting."
-},
-{
-"id": 3,
-"name": "Samarqand Zig'ir Oshi",
-"category": "Quyuq Taomlar",
-"image": "https://cdn.zoomda.uz/products/2026/05/20/1779262235453914407.webp",
-"ingredients": [
-"500 g qo'y go'shti",
-"500 g guruch",
-"500 g sabzi",
-"2 dona piyoz",
-"100 ml zig'ir yog'i",
-"1 bosh sarimsoq",
-"1 dona achchiq qalampir",
-"Tuz, zira va qora murch",
-"1 litr suv"
-],
-"instructions": "Guruchni bir necha marta yaxshilab yuvib, iliq tuzli suvda iviting. Qozonda zig'ir yog'ini qizdirib, go'shtni soling va yaxshilab qovuring. Piyozni qo'shib, tillarang tusga kirguncha qovuring. Somoncha shaklida to'g'ralgan sabzini solib, bir necha daqiqa qovuring. Suv quying va zirvakni qaynatib oling. Tuz, zira va qora murch qo'shing. Zirvakni go'sht yumshaguncha pishiring. Guruchni zirvak ustiga tekis qilib soling. Guruch suvni tortib olguncha ehtiyotkorlik bilan aylantirib turing. Sarimsoq va achchiq qalampirni qo'shing. Qopqog'ini yopib, past olovda 15–20 daqiqa damlab pishiring."
-},
-{
-"id": 5,
-"name": "Qozon Kabob",
-"category": "Quyuq Taomlar",
-"image": "https://makepedia.uz/wp-content/uploads/2018/04/qozon-kabob.jpg",
-"ingredients": [
-"700 g go'sht",
-"1 kg kartoshka",
-"2 dona yirik piyoz",
-"150 ml o'simlik yog'i",
-"Zira, qora murch va tuz",
-"Ko'katlar"
-],
-"instructions": "Qozonga yog' solib yaxshilab qizdiring. Piyozni halqa shaklida to'g'rab, qozon tagiga yoying. Ustiga go'sht bo'laklarini terib chiqing va tuz hamda ziravorlar seping. Kartoshkani yirik bo'laklarga bo'lib, go'sht ustiga joylashtiring. Qopqog'ini zich yoping va past olovda 45–50 daqiqa davomida aralashtirmasdan dimlab pishiring. Tayyor bo'lgach, ustiga mayda to'g'ralgan ko'katlar seping va issiq holda dasturxonga torting."
-},
-{
-"id": 6,
-"name": "Moshkichiri",
-"category": "Quyuq Taomlar",
-"image": "https://cdn.zoomda.uz/products/2025/12/02/1764685159840213677.webp",
-"ingredients": [
-"1 stakan mosh",
-"1 stakan guruch",
-"300 g go'sht",
-"2 dona piyoz",
-"1 dona sabzi",
-"O'simlik yog'i",
-"Tuz, qora murch va zira"
-],
-"instructions": "Moshni oldindan 2–3 soat davomida suvda ivitib qo'ying. Qozonga yog' solib, go'shtni yaxshilab qovuring. Piyoz va sabzini qo'shib, yana bir necha daqiqa qovuring. Suv quying va qaynatib oling. Ivitilgan moshni solib, yarim pishguncha qaynatib turing. Guruchni yuvib qo'shing. Tuz, qora murch va zira seping. Past olovda guruch va mosh to'liq pishguncha dimlab pishiring."
-},
-{
-"id": 7,
-"name": "Dimlama",
-"category": "Quyuq Taomlar",
-"image": "https://zira.uz/wp-content/uploads/2018/03/dimlama-4.jpg",
-"ingredients": [
-"500 g go'sht",
-"300 g kartoshka",
-"300 g karam",
-"2 dona pomidor",
-"2 dona bulg'or qalampiri",
-"1 dona baqlajon",
-"2 dona piyoz",
-"1 dona sabzi",
-"Tuz, qora murch va ko'katlar"
-],
-"instructions": "Qozon tagiga ozgina yog' soling. Go'shtni bo'laklarga bo'lib, qozonga joylashtiring. Ustiga piyoz, sabzi, kartoshka, baqlajon, bulg'or qalampiri, pomidor va karamni navbat bilan qatlam qilib joylang. Har bir qatlamga tuz va qora murch seping. Qopqog'ini zich yopib, suv qo'shmasdan past olovda 1–1,5 soat davomida dimlab pishiring. Tayyor bo'lgach, ustiga ko'katlar seping va issiq holda dasturxonga torting."
-},
-{
-"id": 8,
-"name": "Jaz Shashlik",
-"category": "Quyuq Taomlar",
-"image": "https://www.shashleek.uz/_next/image?url=https%3A%2F%2Fcdn.zoomda.uz%2Fproducts%2F%2F2025%2F12%2F18%2F1766001193433101811.webp&w=640&q=85",
-"ingredients": [
-"700 g qo'y yoki mol go'shti",
-"2 dona piyoz",
-"1 dona limon",
-"Zira, qora murch va tuz",
-"Qo'y dumbasi"
-],
-"instructions": "Go'shtni bir xil o'lchamdagi bo'laklarga to'g'rang. Piyozni halqa shaklida kesing. Go'shtga piyoz, limon sharbati, tuz va ziravorlarni qo'shib aralashtiring. Kamida 2–3 soat marinadlab qo'ying. Xohishga ko'ra qo'y dumbasi bo'laklarini ham qo'shing. Go'sht bo'laklarini sixga tizib chiqing. Cho'g' ustida sixlarni tez-tez aylantirib, go'shtning barcha tomonlari bir tekis pishguncha qovuring."
-},
-{
-"id": 9,
-"name": "Qiyma Shashlik",
-"category": "Quyuq Taomlar",
-"image": "https://www.shashleek.uz/_next/image?url=https%3A%2F%2Fcdn.zoomda.uz%2Fproducts%2F%2F2025%2F12%2F18%2F1766001232759082626.webp&w=640&q=85",
-"ingredients": [
-"700 g qiyma go'sht",
-"2 dona piyoz",
-"1 dona tuxum",
-"2 osh qoshiq un yoki non uvog'i",
-"Zira, qora murch va tuz",
-"Ko'katlar"
-],
-"instructions": "Piyozni mayda to'g'rab, qiymaga qo'shing. Tuxum, un, tuz va ziravorlarni solib, qiymani yaxshilab aralashtiring. Aralashmani 20–30 daqiqa sovutgichda tindiring. Qiymani sixga yopishqoq holatda bir tekis qilib joylashtiring. Cho'g' ustida tez-tez aylantirib, barcha tomonlari bir tekis pishguncha qovuring. Xohishga ko'ra ustiga ko'katlar sepib dasturxonga torting."
-},
-{
-"id": 10,
-"name": "Jigar Shashlik",
-"category": "Quyuq Taomlar",
-"image": "https://www.shashleek.uz/_next/image?url=https%3A%2F%2Fcdn.zoomda.uz%2Fproducts%2F%2F2025%2F12%2F18%2F1766001211888190499.webp&w=640&q=85",
-"ingredients": [
-"700 g jigar",
-"200 g qo'y dumbasi",
-"2 dona piyoz",
-"Zira, qora murch va tuz",
-"Sirka yoki limon sharbati"
-],
-"instructions": "Jigarni bir xil o'lchamdagi bo'laklarga to'g'rang. Piyozni halqa shaklida kesib, jigar bilan aralashtiring. Tuz, qora murch, zira va ozgina sirka yoki limon sharbatini qo'shing. 30–40 daqiqa marinadlab qo'ying. Sixga jigar va dumba yog'i bo'laklarini navbat bilan tizib chiqing. Cho'g' ustida tez-tez aylantirib, jigar to'liq pishguncha taxminan 7–10 daqiqa davomida qovuring."
-},
-{
-"id": 11,
-"name": "Qovurma Lag'mon",
-"category": "Quyuq Taomlar",
-"image": "https://zira.uz/wp-content/uploads/2018/07/kovurma-lagman-25.jpg",
-"ingredients": [
-"400 g lag'mon xamiri",
-"400 g go'sht",
-"1 dona bulg'or qalampiri",
-"2 dona pomidor",
-"1 dona sabzi",
-"1 dona piyoz",
-"Sarimsoq",
-"Lag'mon ziravorlari",
-"Ko'katlar"
-],
-"instructions": "Go'shtni bo'laklarga bo'lib, qattiq olovda qovuring. Piyoz, sabzi va bulg'or qalampirini qo'shib, qovurishni davom ettiring. Pomidorni maydalab solib, bir necha daqiqa dimlang. Tuz va ziravorlarni qo'shing. Lag'mon xamirini qaynoq suvda pishirib, suvini to'kib tashlang. Pishgan lag'monni qovurma ustiga solib, kuchli olovda barcha masalliqlarni yaxshilab aralashtirib qovuring. Sarimsoq va ko'katlar sepib, issiq holda dasturxonga torting."
-},
-{
-"id": 12,
-"name": "Dolma",
-"category": "Quyuq Taomlar",
-"image": "https://images.immediate.co.uk/production/volatile/sites/30/2024/11/Dolma-c52e916.jpg?resize=768,713",
-"ingredients": [
-"500 g qiyma go'sht",
-"1 dona piyoz",
-"0,5 stakan guruch",
-"20–25 dona uzum bargi",
-"2 osh qoshiq o'simlik yog'i",
-"Tuz, qora murch va zira",
-"1 stakan suv"
-],
-"instructions": "Piyozni mayda to'g'rab, qiyma go'sht va yuvilgan guruch bilan aralashtiring. Tuz, qora murch va zira qo'shing. Uzum barglarini issiq suvda bir necha daqiqa yumshating. Har bir barg ichiga tayyorlangan qiymadan solib, ixcham qilib o'rang. O'ralgan dolmalarni qozonga zich qilib tering. Ustidan ozgina yog' va suv quying. Qopqog'ini yopib, past olovda guruch va go'sht to'liq pishguncha dimlab pishiring."
-},
-{
-"id": 13,
-"name": "Karam Dolma",
-"category": "Quyuq Taomlar",
-"image": "https://www.gazeta.uz/media/img/2023/04/kkzjOo16808734434089_l.jpg",
-"ingredients": [
-"500 g qiyma go'sht",
-"1 dona oq karam",
-"0,5 stakan guruch",
-"1 dona piyoz",
-"2 dona sabzi",
-"2 osh qoshiq o'simlik yog'i",
-"1 osh qoshiq tomat pastasi",
-"Tuz, qora murch va zira",
-"1,5 stakan suv"
-],
-"instructions": "Karam barglarini ajratib, qaynoq suvda yumshating. Piyoz va sabzini mayda to'g'rab, yog'da yengil qovuring. Qiyma go'sht va yuvilgan guruchni qo'shing. Tuz, qora murch va zira solib, yaxshilab aralashtiring. Yumshagan karam barglariga tayyor qiymadan solib, o'rang. Dolmalarni qozonga zich qilib tering. Tomat pastasini suv bilan aralashtirib, ustidan quying. Qopqog'ini yopib, past olovda karam va ichidagi masalliqlar to'liq pishguncha dimlab pishiring."
-}
-],
-[
-{
-"id": 1,
-"name": "Sho'rva",
-"category": "Suyuq Taomlar",
-"image": "https://avatars.mds.yandex.net/get-sprav-products/2510998/2a0000019ab6e7205dd563912f6cc0326d59/M_height",
-"ingredients": [
-"500 g go'sht",
-"3–4 dona kartoshka",
-"1 dona sabzi",
-"1 dona piyoz",
-"1–2 dona bulg'or qalampiri",
-"Tuz, qora murch va lavr bargi",
-"Ko'katlar"
-],
-"instructions": "Go'shtni sovuq suvga solib, qaynatib oling. Qaynash jarayonida yuzaga chiqqan ko'pikni olib tashlang. Kartoshka, sabzi va piyozni yirik bo'laklarga to'g'rang. Go'sht yarim pishganda sabzavotlarni qo'shing. Tuz, qora murch va lavr bargini solib, barcha masalliqlar to'liq pishguncha qaynatib oling. Tayyor sho'rva ustiga ko'katlar sepib, issiq holda dasturxonga torting."
-},
-{
-"id": 2,
-"name": "Mastava",
-"category": "Suyuq Taomlar",
-"image": "https://villagarden.decorexpro.com/wp-content/uploads/2019/03/sup-mastava.jpg",
-"ingredients": [
-"400 g go'sht",
-"0,5 stakan guruch",
-"2 dona kartoshka",
-"1 dona sabzi",
-"1 dona piyoz",
-"2 dona pomidor",
-"Tuz, qora murch va ko'katlar"
-],
-"instructions": "Go'shtni bo'laklarga bo'lib, qozonda qovuring. Piyoz va sabzini qo'shib, yana bir necha daqiqa qovuring. Pomidorni maydalab solib, biroz dimlang. Suv quying va qaynatib oling. Kartoshkani kub shaklida to'g'rab, qozonga qo'shing. Kartoshka yarim pishganda yuvilgan guruchni soling. Tuz va qora murch qo'shib, guruch va kartoshka to'liq pishguncha qaynatib oling. Ustiga ko'katlar sepib dasturxonga torting."
-},
-{
-"id": 3,
-"name": "Mampar",
-"category": "Suyuq Taomlar",
-"image": "https://static.1000.menu/img/content-v2/1c/b1/17217/sup-mampar-po-uzbekski_1680589839_23_max.jpg",
-"ingredients": [
-"400 g un",
-"1 dona tuxum",
-"150 ml suv",
-"400 g go'sht",
-"1 dona bulg'or qalampiri",
-"2 dona pomidor",
-"1 dona piyoz",
-"1 dona sabzi",
-"Ziravorlar va ko'katlar"
-],
-"instructions": "Un, tuxum va suvdan qattiqroq xamir qorib, tindirib qo'ying. Xamirni kichik bo'laklarga bo'lib, yupqa qilib cho'zing. Go'shtni qovuring, so'ng piyoz, sabzi, bulg'or qalampiri va pomidorni qo'shing. Bir necha daqiqa qovurgach, suv quying va qaynatib oling. Xamir bo'laklarini qaynayotgan sho'rvaga solib, 8–10 daqiqa davomida pishiring. Tuz va ziravorlarni qo'shing. Tayyor mampar ustiga ko'katlar sepib, issiq holda dasturxonga torting."
-},
-{
-"id": 4,
-"name": "Moshxo'rda",
-"category": "Suyuq Taomlar",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-i5iGaE_eUUN-rKqIG1NXMYtaaQ9-CL_OYUfCIhzloxO2fBzMzjNVE_sw&s=10",
-"ingredients": [
-"1 stakan mosh",
-"300 g go'sht",
-"2 dona kartoshka",
-"1 dona piyoz",
-"1 dona sabzi",
-"Tuz, qora murch va zira"
-],
-"instructions": "Moshni oldindan 2–3 soat davomida suvda ivitib qo'ying. Go'shtni qozonda qovuring. Piyoz va sabzini qo'shib, yana bir necha daqiqa qovuring. Suv quying va qaynatib oling. Ivitilgan moshni solib, yarim pishguncha qaynatib turing. Kartoshkani kub shaklida to'g'rab qo'shing. Tuz, qora murch va zira solib, barcha masalliqlar to'liq pishguncha qaynatib oling."
-},
-{
-"id": 5,
-"name": "Tiftel Sho'rva",
-"category": "Suyuq Taomlar",
-"image": "https://i.ytimg.com/vi/h9bXkvajPl8/maxresdefault.jpg",
-"ingredients": [
-"400 g qiyma go'sht",
-"0,3 stakan guruch",
-"1 dona tuxum",
-"2 dona kartoshka",
-"1 dona sabzi",
-"1 dona piyoz",
-"1 osh qoshiq pomidor pastasi",
-"Tuz, qora murch va ko'katlar"
-],
-"instructions": "Qiymaga guruch, tuxum, tuz va qora murch qo'shib, yaxshilab aralashtiring. Aralashmadan kichik tiftel to'plarini tayyorlang. Qozonda piyoz va sabzini yengil qovuring. Pomidor pastasi va suv qo'shib, sho'rva tayyorlang. Kartoshkani to'g'rab qo'shing. Sho'rva qaynagach, tiftellarni ehtiyotkorlik bilan soling. Past olovda 15–20 daqiqa davomida pishiring. Tayyor sho'rva ustiga ko'katlar sepib, issiq holda dasturxonga torting."
-},
-{
-"id": 6,
-"name": "Nohot Sho'rva",
-"category": "Suyuq Taomlar",
-"image": "https://i.ytimg.com/vi/-vdc_YXYktQ/maxresdefault.jpg",
-"ingredients": [
-"300 g no'xat",
-"300 g qo'y go'shti",
-"2 dona kartoshka",
-"1 dona sabzi",
-"1 dona piyoz",
-"2 dona pomidor",
-"2 osh qoshiq o'simlik yog'i",
-"1,5 litr suv",
-"Tuz",
-"Qora murch",
-"Zira",
-"Ko'katlar"
-],
-"instructions": "No'xatni oldindan 6–8 soat davomida suvda ivitib qo'ying. Qozonga o'simlik yog'ini solib, go'shtni biroz qovuring. Mayda to'g'ralgan piyoz va sabzini qo'shib, bir necha daqiqa qovuring. Pomidorni qo'shib aralashtiring. Ivitilgan no'xatni solib, ustidan 1,5 litr suv quying. No'xat yumshaguncha past olovda qaynatib pishiring. Kartoshkani to'g'rab qo'shing. Tuz, qora murch va zira solib, kartoshka to'liq pishguncha qaynatib oling. Tayyor sho'rva ustiga mayda to'g'ralgan ko'katlar seping va issiq holda dasturxonga torting."
-},
-{
-"id": 7,
-"name": "Borsh",
-"category": "Suyuq Taomlar",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFN6bWNnYI7T4LGuUq-fpxfofiR0AFfrEwwd8ENjCBHU9fUnJqKD-tSY&s=10",
-"ingredients": [
-"400 g go'sht",
-"2 dona lavlagi",
-"2 dona kartoshka",
-"1 dona sabzi",
-"1 dona piyoz",
-"200 g karam",
-"1 osh qoshiq pomidor pastasi",
-"Smetana va ko'katlar",
-"Tuz, qora murch va sirka"
-],
-"instructions": "Go'shtni suvda qaynatib, bulyon tayyorlang. Lavlagini maydalab, ozgina sirka bilan alohida dimlang. Kartoshka, karam, sabzi va piyozni to'g'rab, bulyonga qo'shing. Pomidor pastasini solib, sabzavotlar yarim pishguncha qaynatib oling. Dimlangan lavlagini qo'shing. Tuz va qora murch seping. Barcha masalliqlar to'liq pishguncha qaynatib oling. Tayyor borshni smetana va ko'katlar bilan dasturxonga torting."
-},
-{
-"id": 8,
-"name": "Go'ja",
-"category": "Suyuq Taomlar",
-"image": "https://zira.uz/wp-content/uploads/2018/05/guja-2.jpg",
-"ingredients": [
-"200 g jo'xori yoki bug'doy yormasi",
-"150 g qatiq",
-"1 dona piyoz",
-"1 dona sabzi",
-"2 osh qoshiq o'simlik yog'i",
-"1,5 litr suv",
-"Tuz",
-"Ko'katlar"
-],
-"instructions": "Yormani yaxshilab yuvib oling. Qozonga suv solib, yormani yumshaguncha qaynatib pishiring. Piyoz va sabzini mayda to'g'rab, yog'da yengil qovuring. Qovurilgan sabzavotlarni qozonga qo'shing. Tuz solib, barcha masalliqlar to'liq pishguncha qaynatib oling. Taomni biroz sovuting va qatiq qo'shib yaxshilab aralashtiring. Ustiga mayda to'g'ralgan ko'katlar sepib dasturxonga torting."
-},
-{
-"id": 9,
-"name": "Okroshka",
-"category": "Suyuq Taomlar",
-"image": "https://recipeworld.blog/recipes/okroshka.webp",
-"ingredients": [
-"3 dona kartoshka",
-"2 dona tuxum",
-"2 dona yangi bodring",
-"150 g qaynatilgan go'sht",
-"100 g turp",
-"500 ml qatiq",
-"500 ml sovuq suv",
-"1 choy qoshiq xantal",
-"Tuz",
-"Ko'katlar"
-],
-"instructions": "Kartoshka va tuxumni alohida qaynatib, sovuting. Kartoshka, tuxum, go'sht, bodring va turpni mayda kub shaklida to'g'rang. Barcha masalliqlarni katta idishga soling. Qatiq, sovuq suv va xantalni alohida idishda aralashtiring. Tayyor aralashmani masalliqlar ustidan quying. Tuz qo'shib, yaxshilab aralashtiring. Ustiga mayda to'g'ralgan ko'katlar sepib, sovuq holda dasturxonga torting."
-},
-{
-"id": 10,
-"name": "Chuchvara",
-"category": "Suyuq Taomlar",
-"image": "https://thumbs.dreamstime.com/b/dumplings-soup-chuchvara-manti-lamb-meat-uzbek-cuisine-banner-menu-recipe-place-text-top-view-268932965.jpg",
-"ingredients": [
-"400 g un",
-"1 dona tuxum",
-"150 ml suv",
-"300 g qiyma go'sht",
-"1 dona piyoz",
-"Tuz va qora murch",
-"Go'sht bulyoni"
-],
-"instructions": "Un, tuxum, suv va tuzdan qattiq xamir qorib, 20 daqiqa tindiring. Qiymaga mayda to'g'ralgan piyoz, tuz va qora murch qo'shib aralashtiring. Xamirni yupqa qilib yoyib, kichik kvadratlarga kesing. Har bir kvadratning o'rtasiga qiyma solib, chuchvara shaklida yoping. Go'sht bulyonini qaynatib oling. Chuchvaralarni qaynayotgan bulyonga solib, 7–10 daqiqa davomida pishiring. Tayyor chuchvarani issiq holda dasturxonga torting."
-}
-],
-[
-{
-"id": 1,
-"name": "Go'shtli Somsa",
-"category": "Xamirli Taomlar",
-"image": "https://onebuy1.s3.eu-central-003.backblazeb2.com/extiyoj/products/file_6a264fef665758.59072722.jpg",
-"ingredients": [
-"500 g mol yoki qo'y go'shti",
-"500 g un",
-"3 dona piyoz",
-"200 ml suv",
-"100 g sariyog'",
-"1 dona tuxum",
-"Tuz, qora murch va zira"
-],
-"instructions": "Un, suv va tuzdan yumshoq xamir qorib, 20 daqiqa tindiring. Go'sht va piyozni mayda to'g'rab, tuz, qora murch va zira bilan aralashtiring. Xamirni yupqa qilib yoyib, ustiga eritilgan sariyog' surting. Xamirni rulet shaklida o'rab, bo'laklarga kesing. Har bir bo'lakni yoyib, ichiga go'shtli masalliqdan soling va uchburchak shaklda yoping. Ustiga tuxum surting. 200°C gacha qizdirilgan pechda tillarang tusga kirguncha pishiring."
-},
-{
-"id": 2,
-"name": "Tovuqli Somsa",
-"category": "Xamirli Taomlar",
-"image": "https://onebuy1.s3.eu-central-003.backblazeb2.com/extiyoj/products/file_6a264feb9bced0.57276521.jpg",
-"ingredients": [
-"500 g tovuq go'shti",
-"500 g un",
-"3 dona piyoz",
-"200 ml suv",
-"100 g sariyog'",
-"1 dona tuxum",
-"Tuz, qora murch va zira"
-],
-"instructions": "Un, suv va tuzdan yumshoq xamir qorib, 20 daqiqa tindiring. Tovuq go'shti va piyozni mayda to'g'rang. Tuz, qora murch va zira qo'shib aralashtiring. Xamirni yupqa qilib yoyib, ustiga eritilgan sariyog' surting. Xamirni o'rab, bo'laklarga kesing. Har bir bo'lakni yoyib, ichiga tovuqli masalliq soling va uchburchak shaklda yoping. Ustiga tuxum surting. 200°C gacha qizdirilgan pechda tillarang bo'lguncha pishiring."
-},
-{
-"id": 3,
-"name": "Kartoshkali Somsa",
-"category": "Xamirli Taomlar",
-"image": "https://onebuy1.s3.eu-central-003.backblazeb2.com/extiyoj/products/file_6a264febd7bc40.29266392.jpg",
-"ingredients": [
-"500 g un",
-"4 dona kartoshka",
-"2 dona piyoz",
-"200 ml suv",
-"100 g sariyog'",
-"1 dona tuxum",
-"Tuz, qora murch va zira"
-],
-"instructions": "Un, suv va tuzdan yumshoq xamir qorib, 20 daqiqa tindiring. Kartoshka va piyozni mayda kubik shaklida to'g'rang. Tuz, qora murch va zira qo'shib aralashtiring. Xamirni yupqa qilib yoyib, ustiga eritilgan sariyog' surting. Xamirni o'rab, bo'laklarga kesing. Har bir bo'lakni yoyib, ichiga kartoshkali masalliq soling va uchburchak shaklda yoping. Ustiga tuxum surting. 200°C gacha qizdirilgan pechda qizarguncha pishiring."
-},
-{
-"id": 4,
-"name": "Qovoqli Somsa",
-"category": "Xamirli Taomlar",
-"image": "https://onebuy1.s3.eu-central-003.backblazeb2.com/extiyoj/products/file_6a264feb56a540.24375269.jpg",
-"ingredients": [
-"500 g un",
-"500 g qovoq",
-"2 dona piyoz",
-"200 ml suv",
-"100 g sariyog'",
-"1 dona tuxum",
-"Tuz, qora murch va zira"
-],
-"instructions": "Un, suv va tuzdan yumshoq xamir qorib, 20 daqiqa tindiring. Qovoqni tozalab, mayda kubik shaklida to'g'rang. Piyozni mayda to'g'rab, qovoq bilan aralashtiring. Tuz, qora murch va zira qo'shing. Xamirni yupqa qilib yoyib, ustiga eritilgan sariyog' surting. Xamirni o'rab, bo'laklarga kesing. Har bir bo'lakni yoyib, ichiga qovoqli masalliq solib, uchburchak shaklda yoping. Ustiga tuxum surting. 200°C gacha qizdirilgan pechda qizarguncha pishiring."
-},
-{
-"id": 5,
-"name": "Ko'k Somsa",
-"category": "Xamirli Taomlar",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMG9ZC7Mq29ib3QefsirYN2FJkEDo4vxFCOlfaU9Rs0qCIZrD23mDFFIy0&s=10",
-"ingredients": [
-"500 g un",
-"300 g ismaloq",
-"100 g ko'k piyoz",
-"50 g kashnich",
-"2 dona piyoz",
-"200 ml suv",
-"100 g sariyog'",
-"1 dona tuxum",
-"Tuz va qora murch"
-],
-"instructions": "Un, suv va tuzdan yumshoq xamir qorib, tindirib qo'ying. Ismaloq, ko'k piyoz, kashnich va piyozni mayda to'g'rang. Tuz va qora murch qo'shib aralashtiring. Xamirni yupqa qilib yoyib, ustiga eritilgan sariyog' surting. Xamirni o'rab, bo'laklarga kesing. Har bir bo'lakni yoyib, ichiga ko'katli masalliq soling. Uchburchak shaklda yoping va ustiga tuxum surting. 200°C gacha qizdirilgan pechda tillarang bo'lguncha pishiring."
-},
-{
-"id": 6,
-"name": "Norin",
-"category": "Xamirli Taomlar",
-"image": "https://makepedia.uz/wp-content/uploads/2018/08/norin-tayyorlash.jpg",
-"ingredients": [
-"500 g un",
-"250 ml suv",
-"500 g mol yoki ot go'shti",
-"2 dona tuxum",
-"1 dona piyoz",
-"2 osh qoshiq o'simlik yog'i",
-"Tuz, qora murch va zira"
-],
-"instructions": "Un, tuxum, suv va tuzdan qattiqroq xamir qorib, 20–30 daqiqa tindiring. Xamirni juda yupqa qilib yoyib, bir necha qatlamga ajrating va biroz quriting. Xamir qatlamlarini qaynatib, sovuting va juda ingichka qilib kesing. Go'shtni tuzli suvda yaxshilab pishirib, sovuting va mayda qilib to'g'rang. Kesilgan xamirni go'sht bilan aralashtiring. Ustidan ozgina go'sht sho'rvasi va o'simlik yog'i qo'shing. Piyozni yupqa to'g'rab, ziravorlar bilan aralashtirib, norin ustiga soling."
-},
-{
-"id": 7,
-"name": "Go'shtli Manti",
-"category": "Xamirli Taomlar",
-"image": "https://cdn.delever.uz/delever/6c382817-3580-4478-9445-ccb764eb1676",
-"ingredients": [
-"500 g un",
-"500 g qo'y yoki mol go'shti",
-"3 dona piyoz",
-"200 ml suv",
-"1 dona tuxum",
-"2 osh qoshiq o'simlik yog'i",
-"Tuz, qora murch va zira"
-],
-"instructions": "Un, tuxum, suv va tuzdan qattiqroq xamir qorib, 20 daqiqa tindiring. Go'sht va piyozni mayda to'g'rang. Tuz, qora murch va zira qo'shib aralashtiring. Xamirni yupqa qilib yoyib, kvadrat shaklda kesing. Har bir xamir bo'lagining o'rtasiga go'shtli masalliqdan solib, chetlarini birlashtirib manti shaklida yoping. Manti qasqonini yog'lab, mantilarni tering. Bug'da 40–45 daqiqa davomida pishiring."
-},
-{
-"id": 8,
-"name": "Qovoqli Manti",
-"category": "Xamirli Taomlar",
-"image": "https://cdn.delever.uz/delever/14ef81d0-f805-4a66-a03c-c1f76703ea91",
-"ingredients": [
-"500 g un",
-"500 g qovoq",
-"3 dona piyoz",
-"200 ml suv",
-"1 dona tuxum",
-"2 osh qoshiq o'simlik yog'i",
-"Tuz, qora murch va zira"
-],
-"instructions": "Un, tuxum, suv va tuzdan qattiqroq xamir qorib, 20 daqiqa tindiring. Qovoqni tozalab, mayda kubik shaklida to'g'rang. Piyozni mayda to'g'rab, qovoq bilan aralashtiring. Tuz, qora murch va zira qo'shing. Xamirni yupqa qilib yoyib, kvadrat shaklda kesing. Har bir xamir bo'lagiga qovoqli masalliqdan solib, manti shaklida yoping. Manti qasqonini yog'lab, mantilarni tering. Bug'da 40–45 daqiqa davomida pishiring."
-},
-{
-"id": 9,
-"name": "Patir",
-"category": "Xamirli Taomlar",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lvFVZWRWzGK2zbiRjJxPTVXKLGvWs6FKiwgZ1yKOgcbO6x1a88xv2NBD&s=10",
-"ingredients": [
-"500 g un",
-"250 ml iliq suv",
-"100 ml sut",
-"50 g sariyog'",
-"1 choy qoshiq tuz",
-"1 choy qoshiq shakar",
-"1 choy qoshiq quruq xamirturush"
-],
-"instructions": "Iliq suv va sutga xamirturush, shakar va tuz qo'shing. Unni solib, yumshoq xamir qorib oling. Xamirni 40–50 daqiqa tindiring. Xamirni bo'laklarga ajratib, yoying va ustiga eritilgan sariyog' surting. Xamirni o'rab, yana yoyib, patir shaklini bering. Ustini bezatib, 200°C gacha qizdirilgan pechda qizarguncha pishiring."
-},
-{
-"id": 10,
-"name": "Bo'g'irsoq",
-"category": "Xamirli Taomlar",
-"image": "https://zira.uz/wp-content/uploads/2018/06/bagursaki5.jpg",
-"ingredients": [
-"500 g un",
-"250 ml iliq sut",
-"1 dona tuxum",
-"2 osh qoshiq shakar",
-"1 choy qoshiq quruq xamirturush",
-"0,5 choy qoshiq tuz",
-"O'simlik yog'i"
-],
-"instructions": "Iliq sutga xamirturush va shakar qo'shib, bir necha daqiqa tindiring. Tuxum va tuzni qo'shing. Unni solib, yumshoq xamir qorib oling. Xamirni tindirib, kichik bo'laklarga bo'ling. Har bir bo'lakni yumaloqlang. Qizdirilgan o'simlik yog'ida bo'g'irsoqlarni oltinrang tusga kirguncha qovuring."
-},
-{
-"id": 11,
-"name": "Chak-chak",
-"category": "Xamirli Taomlar",
-"image": "https://media.istockphoto.com/id/1170819649/photo/chak-chak-with-honey.jpg?s=170667a&w=0&k=20&c=nPiuMJNBzIAVsi5RFTYpEYJE-Y0Rh5Ok3unrF-WM4Ls=",
-"ingredients": [
-"400 g un",
-"4 dona tuxum",
-"1 osh qoshiq shakar",
-"0,5 choy qoshiq tuz",
-"300 g asal",
-"100 g shakar",
-"O'simlik yog'i"
-],
-"instructions": "Tuxum, shakar va tuzni aralashtiring. Unni qo'shib, qattiqroq xamir qorib oling. Xamirni yupqa qilib yoyib, mayda bo'laklarga kesing. Bo'laklarni qizdirilgan o'simlik yog'ida tillarang bo'lguncha qovuring. Asal va shakarni past olovda aralashtirib, sirop tayyorlang. Qovurilgan xamir bo'laklarini sirop bilan aralashtirib, kerakli shaklga keltiring. Sovugach dasturxonga torting."
-},
-{
-"id": 12,
-"name": "Qatlama",
-"category": "Xamirli Taomlar",
-"image": "https://zira.uz/wp-content/uploads/2022/04/milter.-katlama-s-zelenyu-6.jpg",
-"ingredients": [
-"500 g un",
-"250 ml iliq suv",
-"100 g sariyog'",
-"1 choy qoshiq tuz",
-"1 dona piyoz",
-"O'simlik yog'i"
-],
-"instructions": "Un, iliq suv va tuzdan yumshoq xamir qorib, tindirib qo'ying. Xamirni juda yupqa qilib yoying. Ustiga eritilgan sariyog' surting va mayda to'g'ralgan piyoz seping. Xamirni o'rab, yana yoying. Tayyor qatlamli xamirni tovaga solib, ikki tomonini tillarang bo'lguncha pishiring."
-}
-],
-[
-{
-"id": 1,
-"name": "Achichuk",
-"category": "Salatlar",
-"image": "https://www.tasteatlas.com/images/dishes/d0cb02e857914e3d80f0a98681cb2e56.jpg",
-"ingredients": [
-"3 dona pomidor",
-"1 dona piyoz",
-"1 dona achchiq qalampir",
-"Yarim bog' kashnich",
-"Tuz"
-],
-"instructions": "Pomidorlarni yupqa qilib to'g'rang. Piyozni ham juda yupqa halqa shaklida kesing. Achchiq qalampirni mayda to'g'rab qo'shing. Kashnichni maydalab, barcha masalliqlarni bir idishga soling. Tuz sepib, yaxshilab aralashtiring va yangi holatda dasturxonga torting."
-},
-{
-"id": 2,
-"name": "Olivye",
-"category": "Salatlar",
-"image": "https://www.tasteatlas.com/Images/Dishes/4ead9215212342ddbcaac246fc7a8398.jpg?mw=1300",
-"ingredients": [
-"3 dona kartoshka",
-"2 dona sabzi",
-"3 dona tuxum",
-"200 g kolbasa",
-"2 dona tuzlangan bodring",
-"150 g yashil no'xat",
-"150 g mayonez",
-"Tuz va qora murch"
-],
-"instructions": "Kartoshka, sabzi va tuxumni alohida qaynatib, sovuting. Barchasini mayda kubik shaklida to'g'rang. Kolbasa va tuzlangan bodringni ham kubik qilib kesing. Yashil no'xatni qo'shing. Mayonez, tuz va qora murch solib, barcha masalliqlarni yaxshilab aralashtiring. Tayyor salatni sovutilgan holda dasturxonga torting."
-},
-{
-"id": 3,
-"name": "Suzma Salat",
-"category": "Salatlar",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxlclDkfWfz_1lobz6BoceKh7k8F9fXllVDdG2AdRDQwc3_BJ_McWte-0&s=10",
-"ingredients": [
-"300 g suzma",
-"2 dona bodring",
-"1 dona pomidor",
-"Yarim bog' ko'k piyoz",
-"Yarim bog' kashnich",
-"Tuz"
-],
-"instructions": "Bodring va pomidorni mayda to'g'rang. Ko'k piyoz va kashnichni maydalang. Suzmani idishga solib, barcha masalliqlarni qo'shing. Tuz sepib, yaxshilab aralashtiring. Tayyor salatni dasturxonga torting."
-},
-{
-"id": 4,
-"name": "Lavlagili Salat",
-"category": "Salatlar",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuzc5NOqfXAtPTpA37hMA4ONyZqEjuduQDgZkUVV6v9quFb7vg5dwUtM&s=10",
-"ingredients": [
-"3 dona kartoshka",
-"200 g karam",
-"250 g mol go'shti",
-"3 dona konservalangan bodring",
-"3 dona tuxum",
-"2 dona sabzi",
-"2 dona lavlagi",
-"150 g konservalangan makkajo'xori",
-"4 osh qoshiq mayonez",
-"Tuz"
-],
-"instructions": "Kartoshka, sabzi, lavlagi va tuxumni alohida qaynatib, sovuting. Go'shtni ham tuzli suvda yaxshilab pishirib, sovuting. Barcha masalliqlarni mayda qilib to'g'rang. Karam va konservalangan bodringni ham mayda qilib tayyorlang. Barcha masalliqlarni katta idishga solib, konservalangan makkajo'xori va mayonez qo'shing. Tuz solib, yaxshilab aralashtiring. Salatni biroz tindirib, dasturxonga torting."
-},
-{
-"id": 5,
-"name": "Bahor Salati",
-"category": "Salatlar",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4D2t3QsHSRbO55kxVJ7BJHXzpxaMPno6L39JtDftSQ&s=10",
-"ingredients": [
-"2 dona bodring",
-"2 dona pomidor",
-"1 dona piyoz",
-"Yarim bog' ko'k piyoz",
-"Yarim bog' kashnich",
-"Yarim bog' ukrop",
-"Tuz"
-],
-"instructions": "Bodring va pomidorni o'rtacha bo'laklarga to'g'rang. Piyoz, ko'k piyoz, kashnich va ukropni maydalang. Barcha masalliqlarni bir idishga solib aralashtiring. Tuz sepib, yaxshilab aralashtiring va yangi holatda dasturxonga torting."
-}
-],
-[
-{
-"id": 1,
-"name": "Keks",
-"category": "Pishiriqlar",
-"image": "https://news.milli.az/media/2026/06/24/keks_biskivit.jpg",
-"ingredients": [
-"250 g un",
-"150 g shakar",
-"100 g sariyog'",
-"3 dona tuxum",
-"100 ml sut",
-"1 choy qoshiq qabartma",
-"1 choy qoshiq vanilin"
-],
-"instructions": "Yumshagan sariyog'ni shakar bilan yaxshilab aralashtiring. Tuxumlarni birma-bir qo'shib aralashtiring. Sut va vanilin soling. Un va qabartmani qo'shib, bir xil xamir hosil qiling. Xamirni qolipga soling. 180°C gacha qizdirilgan pechda 35–40 daqiqa davomida pishiring."
-},
-{
-"id": 2,
-"name": "Medovik",
-"category": "Pishiriqlar",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDQvXplnftxteyWZbO5gdkC-sDIQ4xFEJpyJ5JUYCvzA&s=10",
-"ingredients": [
-"500 g un",
-"150 g asal",
-"150 g shakar",
-"100 g sariyog'",
-"3 dona tuxum",
-"1 choy qoshiq soda",
-"600 g smetana",
-"150 g shakar kukuni"
-],
-"instructions": "Asal, shakar va sariyog'ni past olovda eritib, aralashtiring. Tuxum va sodani qo'shing. Un solib, yumshoq xamir tayyorlang. Xamirni bir nechta bo'lakka bo'lib, yupqa yoying va 180°C gacha qizdirilgan pechda alohida pishiring. Smetana va shakar kukunidan krem tayyorlang. Sovigan qatlamlarni krem bilan birma-bir surting. Tortni bir necha soat tindirib, dasturxonga torting."
-},
-{
-"id": 3,
-"name": "Napoleon",
-"category": "Pishiriqlar",
-"image": "https://zira.uz/wp-content/uploads/2018/03/napoleon-8.jpeg",
-"ingredients": [
-"500 g un",
-"250 g sariyog'",
-"2 dona tuxum",
-"200 ml sovuq suv",
-"1 osh qoshiq sirka",
-"500 ml sut",
-"150 g shakar",
-"2 dona tuxum sarig'i",
-"2 osh qoshiq un",
-"1 choy qoshiq vanilin"
-],
-"instructions": "Un va sovuq sariyog'ni uqalab aralashtiring. Tuxum, sovuq suv va sirka qo'shib xamir tayyorlang. Xamirni tindirib, yupqa qatlamlarga yoying va alohida pishiring. Krem uchun sut, shakar, tuxum sarig'i, un va vanilinni aralashtirib, quyuqlashguncha pishiring. Kremni sovuting. Pishgan qatlamlar orasiga krem surting. Ustini maydalangan qatlam bilan bezang va bir necha soat tindiring."
-},
-{
-"id": 4,
-"name": "Murabboli Pechenye",
-"category": "Pishiriqlar",
-"image": "https://data.daryo.uz/media/2021/02/photo_2021-02-13_00-32-08.jpg",
-"ingredients": [
-"300 g un",
-"150 g sariyog'",
-"100 g shakar",
-"1 dona tuxum",
-"1 choy qoshiq vanilin",
-"0,5 choy qoshiq qabartma",
-"150 g murabbo"
-],
-"instructions": "Sariyog' va shakarni yaxshilab aralashtiring. Tuxum va vanilin qo'shing. Un va qabartmani solib, yumshoq xamir qorib oling. Xamirni yoyib, kichik shakllarda kesing. Har bir pechenyenning o'rtasiga ozgina murabbo soling. 180°C gacha qizdirilgan pechda 15–20 daqiqa davomida pishiring."
-},
-{
-"id": 5,
-"name": "Olmali Pirog",
-"category": "Pishiriqlar",
-"image": "https://casianews.com/upload/2026/04/29042026143200-1777455120.jpg",
-"ingredients": [
-"300 g un",
-"150 g shakar",
-"120 g sariyog'",
-"2 dona tuxum",
-"3 dona olma",
-"1 choy qoshiq qabartma",
-"1 choy qoshiq dolchin"
-],
-"instructions": "Sariyog' va shakarni aralashtirib, tuxumlarni qo'shing. Un va qabartmani solib, xamir tayyorlang. Olmalarni tozalab, yupqa qilib to'g'rang. Xamirning bir qismini qolipga yoying. Ustiga olmalarni terib, dolchin seping. Qolgan xamirni ustiga joylashtiring. 180°C gacha qizdirilgan pechda 35–40 daqiqa davomida pishiring."
-},
-{
-"id": 6,
-"name": "Shokoladli Muffin",
-"category": "Pishiriqlar",
-"image": "https://www.tasteofhome.com/wp-content/uploads/2025/03/Chocolate-Sour-Cream-Muffins_EXPS_TOHD24_15163_AlejandroMonfort_6.jpg",
-"ingredients": [
-"200 g un",
-"100 g shakar",
-"2 dona tuxum",
-"100 ml sut",
-"80 ml o'simlik yog'i",
-"2 osh qoshiq kakao",
-"1 choy qoshiq qabartma",
-"100 g shokolad"
-],
-"instructions": "Tuxum va shakarni aralashtiring. Sut va o'simlik yog'ini qo'shing. Un, kakao va qabartmani solib, bir xil massa hosil bo'lguncha aralashtiring. Mayda to'g'ralgan shokoladni qo'shing. Tayyor xamirni muffin qoliplariga bo'lib soling. 180°C gacha qizdirilgan pechda 20–25 daqiqa davomida pishiring."
-}
-],
-[
-{
-"id": 1,
-"name": "Kompot",
-"category": "Ichimliklar",
-"image": "https://zira.uz/wp-content/uploads/2020/06/kompot-fruktovo-yagodnyi---3.jpg",
-"ingredients": [
-"300 g olma",
-"200 g o'rik",
-"150 g olcha",
-"150 g shakar",
-"2 litr suv"
-],
-"instructions": "Mevalarni yaxshilab yuvib, kerak bo'lsa bo'laklarga bo'ling. Qozonga suv solib, qaynatib oling. Mevalarni qaynoq suvga solib, 10–15 daqiqa qaynatib pishiring. Shakar qo'shib, yana bir necha daqiqa qaynatib oling. Kompotni sovuting va dasturxonga torting."
-},
-{
-"id": 2,
-"name": "Qora Choy",
-"category": "Ichimliklar",
-"image": "https://yuz.uz/imageproxy/980x/https://yuz.uz/file/news/f4bf747ad437c472cb015eb3b369b8d9.jpeg",
-"ingredients": [
-"2 choy qoshiq qora choy",
-"500 ml qaynoq suv",
-"Shakar"
-],
-"instructions": "Choynakni qaynoq suv bilan chayib oling. Choy solib, ustidan qaynoq suv quying. 5–7 daqiqa damlang. Ta'bga ko'ra shakar qo'shing va issiq holda dasturxonga torting."
-},
-{
-"id": 3,
-"name": "Ko'k Choy",
-"category": "Ichimliklar",
-"image": "https://aniq.uz/photos/news/o2jZvNpZKoz6H7Z.jpeg",
-"ingredients": [
-"2 choy qoshiq ko'k choy",
-"500 ml qaynoq suv",
-"Shakar"
-],
-"instructions": "Choynakni qaynoq suv bilan chayib oling. Ko'k choyni choynakka solib, ustidan qaynoq suv quying. 5 daqiqa damlang. Ta'bga ko'ra shakar qo'shing va issiq holda dasturxonga torting."
-},
-{
-"id": 4,
-"name": "Sumalak",
-"category": "Ichimliklar",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk2uZZo0f_Z7m5TQWI-xParAPHY3EHcfFhPVCUiHfFwrcAiMpEyvB1Mmo&s=10",
-"ingredients": [
-"1 kg bug'doy",
-"3 litr suv",
-"200 g un",
-"100 ml o'simlik yog'i"
-],
-"instructions": "Bug'doyni yaxshilab yuvib, 2–3 kun davomida namlab, unib chiqishini kuting. Unib chiqqan bug'doyni maydalab, suv bilan aralashtiring va suzib oling. Hosil bo'lgan suyuqlikka un va yog' qo'shib, yaxshilab aralashtiring. Aralashmani katta qozonda past olovda uzoq vaqt qaynatib pishiring. Tagiga olmasligi uchun muntazam ravishda aralashtirib turing. Sumalak quyuqlashib, to'q rangga kirgach, olovni o'chiring va biroz tindirib qo'ying."
-},
-{
-"id": 5,
-"name": "Ayran",
-"category": "Ichimliklar",
-"image": "https://zira.uz/wp-content/uploads/2018/05/ayran-1.jpg",
-"ingredients": [
-"500 ml qatiq",
-"500 ml sovuq suv",
-"0,5 choy qoshiq tuz",
-"Yalpiz yoki ko'katlar"
-],
-"instructions": "Qatiqni idishga solib, yaxshilab aralashtiring. Sovuq suv va tuz qo'shing. Bir xil massa hosil bo'lguncha aralashtiring. Xohishga ko'ra mayda to'g'ralgan yalpiz yoki ko'katlar qo'shing. Sovuq holda dasturxonga torting."
-},
-{
-"id": 6,
-"name": "Sharbat",
-"category": "Ichimliklar",
-"image": "https://c.ndtvimg.com/2023-03/38l3fp48_sharbat_625x300_20_March_23.jpg?im=FaceCrop,algorithm=dnn,width=620,height=350",
-"ingredients": [
-"3 dona apelsin",
-"2 dona olma",
-"1 dona limon",
-"500 ml sovuq suv",
-"2 osh qoshiq shakar"
-],
-"instructions": "Mevalarni yaxshilab yuvib, sharbatini siqib oling. Apelsin, olma va limon sharbatlarini bir idishda aralashtiring. Sovuq suv va shakar qo'shib, yaxshilab aralashtiring. Tayyor sharbatni muzlatkichda biroz sovutib, dasturxonga torting."
-}
-]
-]
+    "recipio": [
+        [
+            {
+                "id": 1,
+                "name": "To'y Oshi",
+                "category": "Quyuq Taomlar",
+                "image": "https://cdn.zoomda.uz/products/2026/05/20/1779262381639333628.webp",
+                "ingredients": [
+                    "500g qo'y go'shti",
+                    "500g devzira guruchi",
+                    "500g sabzi",
+                    "2 dona piyoz",
+                    "150ml o'simlik yog'i",
+                    "Tuz, zira, 50g mag'iz va 50g noxot",
+                    "1.5 litr suv"
+                ],
+                "instructions": "Qozonga yog'(o'simlik yog'i) solinadi, piyoz solinadi piyoz tilla rangga kirgandan keyin go'sht solinadi yaxshilab qo'vuramiz jigarrang rangga kirganda somoncha shaklidagi sabzini solamiz, shu massaliqlarni 10-15 minut qovuramiz, 1.5 litr suv solamiz so'ngra osh mag'izi va uyitilgan noxot va tabga kora tuz solamiz, o'rta olovda 30 minut qaynatib qo'yamiz, zirvak hosil bo'lguncha, guruchimizni tozalab yuvib olamiz, bir qoshiq tuz solib, 5 minutga ivitib qo'yamiz so'ngra suvini to'kib tashlab hosil bo'lgan zirvak ustiga guruchimizni tekkislab solamiz guruchimiz zirvak suvni tortguncha 2-3 martta guruchimizni o'giramiz, so'ngra tabga ko'ra zira solamiz 15-20 minutga past olovda oshimizni qopqog'ini yopib damlab qo'yamiz. YOQIMLI ISHTAXA!"
+            },
+            {
+                "id": 2,
+                "name": "Choyxona Oshi",
+                "category": "Quyuq Taomlar",
+                "image": "https://cdn.zoomda.uz/products/2026/05/20/1779262417085284230.webp",
+                "ingredients": [
+                    "500g mol go'shti",
+                    "500g guruch",
+                    "500g sabzi",
+                    "2 dona piyoz",
+                    "150ml o'simlik yog'i",
+                    "1 bosh sarimsoq",
+                    "1 dona achchiq qalampir",
+                    "Tuz, zira",
+                    "1.5 litr suv"
+                ],
+                "instructions": "Qozonimizni qizdiramiz kubik shakildagi qo'y dumba yog'ini solamiz, yog'i chiqqandan song jizzasini olib qo'yamiz so'ngra piyozimizni solamiz tilla rangdan to'qroq bo'lganidan so'ng kubik shaklida to'g'ralgan go'shtimizni solamiz so'ngra qovuramiz, jiggarang tusga kirganidan so'ng somoncha shaklidagi sabzimizni solamiz solingan massaliqlarni 10-15 minut yaxshilab qo'vuramiz so'ngra 1.5 litr suv solamiz so'ngra olib qo'ygan jizzamizni ham solib tabga ko'ra tuz ham solamiz, zirvak hosil bo'lguncha qaynatib qo'yamiz so'ngra guruchimizni ikki uch marotaba yuvib 1 qoshiq tuz solib 5 minutga ivitib qo'yamiz hosil bo'lgan zirvakimiz ustiga guruchni tekkislab solib qo'yamiz guruchimiz tayyor bo'lguncha ikki uch marotaba o'girib qo'yamiz so'ngra tabga ko'ra zira solamiz va acchiq qalampir va sarimsoq solib past olovda 15-20 minut qopqog'ini yopib damlab qo'yamiz."
+            },
+            {
+                "id": 3,
+                "name": "Samarqand Zig'ir Oshi",
+                "category": "Quyuq Taomlar",
+                "image": "https://cdn.zoomda.uz/products/2026/05/20/1779262235453914407.webp",
+                "ingredients": [
+                    "500g qo'y go'shti",
+                    "500g guruch",
+                    "500g sabzi",
+                    "2 dona piyoz",
+                    "100ml zig'ir yog'i",
+                    "1 bosh sarimsoq",
+                    "1 dona achchiq qalampir",
+                    "Tuz, zira, qora murch",
+                    "1 litr suv"
+                ],
+                "instructions": "Guruchni bir necha marta yuvib, iliq sho'r suvda iviting. Qozonda zig'ir yog'ini qizdirib, go'shtni qovuring. Piyozni qo'shib qovuring va sabzini soling. Sabzi yumshagach, suv quyib zirvakni qaynatib oling. Tuz va ziravorlarni qo'shing. Guruchni solib, suvini tortguncha pishiring. Sarimsoq va qalampirni qo'shib, qopqog'ini yopib past olovda dimlab pishiring."
+            },
+            {
+                "id": 5,
+                "name": "Qozon Kabob",
+                "category": "Quyuq Taomlar",
+                "image": "https://makepedia.uz/wp-content/uploads/2018/04/qozon-kabob.jpg",
+                "ingredients": [
+                    "700g go'sht (mol yoki qo'y, bo'lak qilib to'g'ralgan)",
+                    "1kg kartoshka",
+                    "2 dona yirik piyoz",
+                    "150ml o'simlik yog'i",
+                    "Zira, qora murch, tuz",
+                    "Ko'katlar (ukrop, jambul)"
+                ],
+                "instructions": "Qozonga yog' solib qizdiring. Piyozni halqa qilib to'g'rab, tagiga yoying. Ustiga go'sht bo'laklarini terib chiqing, tuz va ziravor sepib. Kartoshkani yirik bo'laklarga bo'lib, go'sht ustiga qatlab joylashtiring. Qopqoqni zich yoping va past olovda 45-50 daqiqa, aralashtirmasdan dimlab pishiring. Tayyor bo'lgach, ko'kat sepib issiqligida tortiq qiling."
+            },
+            {
+                "id": 6,
+                "name": "Moshkichiri",
+                "category": "Quyuq Taomlar",
+                "image": "https://cdn.zoomda.uz/products/2025/12/02/1764685159840213677.webp",
+                "ingredients": [
+                    "1 stakan mosh",
+                    "1 stakan guruch",
+                    "300g go'sht",
+                    "2 dona piyoz",
+                    "1 dona sabzi",
+                    "O'simlik yog'i",
+                    "Tuz, qora murch, zira"
+                ],
+                "instructions": "Moshni oldindan 2-3 soat suvga bo'ktirib qo'ying. Qozonga yog' solib go'shtni qovuring. Piyoz va sabzini qo'shib yana qovuring. Suv quyib qayting. Moshni solib, yarim pishguncha qaynating. Guruchni qo'shib, tuz-ziravor solib, past olovda guruch va mosh to'liq pishguncha dimlang."
+            },
+            {
+                "id": 7,
+                "name": "Dimlama",
+                "category": "Quyuq Taomlar",
+                "image": "https://zira.uz/wp-content/uploads/2018/03/dimlama-4.jpg",
+                "ingredients": [
+                    "500g go'sht",
+                    "300g kartoshka",
+                    "300g karam",
+                    "2 dona pomidor",
+                    "2 dona bulg'or qalampiri",
+                    "1 dona baqlajon",
+                    "2 dona piyoz",
+                    "1 dona sabzi",
+                    "Tuz, qora murch, ko'katlar"
+                ],
+                "instructions": "Qozon tagiga yog' surtib, go'shtni bo'lak qilib joylashtiring. Ustiga qatlab piyoz, sabzi, kartoshka, baqlajon, bulg'or qalampiri, pomidor va karamni joylang. Har qatlamga tuz va murch sepib turing. Qopqoqni zich yopib, suv qo'shmasdan past olovda 1-1.5 soat o'z sharbatida dimlang. Tayyor bo'lgach, ko'kat sepib tortiq qiling."
+            },
+            {
+                "id": 8,
+                "name": "Jaz Shashlik",
+                "category": "Quyuq Taomlar",
+                "image": "https://www.shashleek.uz/_next/image?url=https%3A%2F%2Fcdn.zoomda.uz%2Fproducts%2F%2F2025%2F12%2F18%2F1766001193433101811.webp&w=640&q=85",
+                "ingredients": [
+                    "700g qo'y yoki mol go'shti (bo'lak qilib to'g'ralgan)",
+                    "2 dona piyoz",
+                    "1 dona limon (sharbati)",
+                    "Zira, qora murch, tuz",
+                    "Qo'y dumbasi (ixtiyoriy, moylilik uchun)"
+                ],
+                "instructions": "Go'shtni bo'lak-bo'lak qilib to'g'rang. Piyozni halqalab, limon sharbati, tuz va ziravorlar bilan go'shtga aralashtirib, kamida 2-3 soat (yaxshisi bir kecha) marinadlab qo'ying. Sixga go'sht bo'laklarini (xohlasangiz dumba yog'i bilan almashtirib) tizib chiqing. Cho'g' ustida, tez-tez aylantirib, har tomoni bir xilda qovurilguncha pishiring."
+            },
+            {
+                "id": 9,
+                "name": "Qiyma Shashlik",
+                "category": "Quyuq Taomlar",
+                "image": "https://www.shashleek.uz/_next/image?url=https%3A%2F%2Fcdn.zoomda.uz%2Fproducts%2F%2F2025%2F12%2F18%2F1766001232759082626.webp&w=640&q=85",
+                "ingredients": [
+                    "700g qiyma go'sht (mol yoki qo'y)",
+                    "2 dona piyoz",
+                    "1 tuxum",
+                    "2 osh qoshiq un yoki non uvog'i",
+                    "Zira, qora murch, tuz",
+                    "Ko'katlar (ixtiyoriy)"
+                ],
+                "instructions": "Piyozni mayda maydalab (yoki go'sht chekichida o'tkazib), qiymaga qo'shing. Tuxum, un, tuz va ziravorlarni solib, qiymani yopishqoq bo'lguncha yaxshilab aralashtiring. 20-30 daqiqa sovutgichda dam bering. Qiymani sixga cho'zib, biriktirib shakllantiring. Cho'g' ustida, tez-tez aylantirib, har tomoni tekis qovurilguncha pishiring."
+            },
+            {
+                "id": 10,
+                "name": "Jigar Shashlik",
+                "category": "Quyuq Taomlar",
+                "image": "https://www.shashleek.uz/_next/image?url=https%3A%2F%2Fcdn.zoomda.uz%2Fproducts%2F%2F2025%2F12%2F18%2F1766001211888190499.webp&w=640&q=85",
+                "ingredients": [
+                    "700g jigar (mol yoki qo'y)",
+                    "200g qo'y dumbasi (yog'i)",
+                    "2 dona piyoz",
+                    "Zira, qora murch, tuz",
+                    "Sirka yoki limon sharbati"
+                ],
+                "instructions": "Jigarni bir xil o'lchamdagi bo'laklarga to'g'rang. Piyozni halqalab, tuz, murch, zira va sirka bilan jigarga aralashtirib, 30-40 daqiqa marinadlab qo'ying. Sixga jigar va dumba yog'i bo'laklarini navbatma-navbat tizib chiqing. Cho'g' ustida tez-tez aylantirib, ortiqcha qovurib yubormaslikka harakat qilib (jigar tez pishadi) 7-10 daqiqada tayyorlang."
+            },
+            {
+                "id": 11,
+                "name": "Qovurma Lag'mon",
+                "category": "Quyuq Taomlar",
+                "image": "https://zira.uz/wp-content/uploads/2018/07/kovurma-lagman-25.jpg",
+                "ingredients": [
+                    "400g lag'mon xamiri (yoki tayyor lag'mon)",
+                    "400g go'sht",
+                    "1 dona bulg'or qalampiri",
+                    "2 dona pomidor",
+                    "1 dona sabzi",
+                    "1 dona piyoz",
+                    "Sarimsoq, ziravorlar (lag'mon ziravori)",
+                    "Ko'katlar"
+                ],
+                "instructions": "Go'shtni bo'lak qilib qattiq olovda qovuring. Piyoz, sabzi va bulg'or qalampirni qo'shib qovurishni davom ettiring. Pomidorni maydalab solib dimlang, tuz-ziravor qo'shing. Lag'mon xamirini qaynoq suvda pishirib, suvini to'kib oling. Pishgan lag'monni qovurma ustiga solib, kuchli olovda hammasini aralashtirib qovuring. Sarimsoq va ko'kat sepib, issiqligida tortiq qiling."
+            },
+            {
+                "id": 12,
+                "name": "Dolma",
+                "category": "Quyuq Taomlar",
+                "image": "https://images.immediate.co.uk/production/volatile/sites/30/2024/11/Dolma-c52e916.jpg?resize=768,713",
+                "ingredients": [
+                    "500g qiyma go'sht",
+                    "1 dona piyoz",
+                    "0.5 stakan guruch",
+                    "20-25 dona uzum bargi",
+                    "2 osh qoshiq o'simlik yog'i",
+                    "Tuz, qora murch, zira",
+                    "1 stakan suv"
+                ],
+                "instructions": "Piyozni mayda to'g'rab, qiyma go'sht va yuvilgan guruch bilan aralashtiring. Tuz, qora murch va zira qo'shib, masalliqni yaxshilab qorib oling. Uzum barglarini issiq suvda biroz yumshating. Har bir barg ichiga tayyorlangan qiymadan solib, ixcham qilib o'rang. O'ralgan dolmalarni qozonga zich qilib tering. Ustidan ozgina yog' va suv quying. Past olovda guruch va go'sht to'liq pishguncha dimlab pishiring."
+            },
+            {
+                "id": 13,
+                "name": "Karam Dolma",
+                "category": "Quyuq Taomlar",
+                "image": "https://www.gazeta.uz/media/img/2023/04/kkzjOo16808734434089_l.jpg",
+                "ingredients": [
+                    "500g qiyma go'sht",
+                    "1 dona oq karam",
+                    "0.5 stakan guruch",
+                    "1 dona piyoz",
+                    "2 dona sabzi",
+                    "2 osh qoshiq o'simlik yog'i",
+                    "1 osh qoshiq tomat pastasi",
+                    "Tuz, qora murch, zira",
+                    "1.5 stakan suv"
+                ],
+                "instructions": "Karamning tashqi barglarini ajratib, qaynoq suvda yumshating. Piyozni mayda to'g'rab, sabzi bilan yog'da qovuring. Qiyma go'sht va yuvilgan guruchni qo'shib, tuz, qora murch va zira soling. Masalliqni yaxshilab aralashtiring. Yumshagan karam barglariga tayyor qiymadan solib, o'rang. Dolmalarni qozonga zich qilib tering. Tomat pastasini suv bilan aralashtirib, ustidan quying. Qopqog'ini yopib, past olovda karam va ichidagi masalliqlar to'liq pishguncha dimlab pishiring."
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "name": "Sho'rva",
+                "category": "Suyuq Taomlar",
+                "image": "https://avatars.mds.yandex.net/get-sprav-products/2510998/2a0000019ab6e7205dd563912f6cc0326d59/M_height",
+                "ingredients": [
+                    "500g go'sht (suyakli)",
+                    "3-4 dona kartoshka",
+                    "1 dona sabzi",
+                    "1 dona piyoz",
+                    "1-2 dona bulg'or qalampiri",
+                    "Tuz, qora murch, lavr bargi",
+                    "Ko'katlar"
+                ],
+                "instructions": "Suyakli go'shtni sovuq suvga solib qayting, ko'pigini olib turing. Kartoshka, sabzi va piyozni yirik bo'lak qilib to'g'rang. Go'sht yarim pishganda sabzavotlarni qo'shing. Tuz, murch va lavr bargi solib, hammasi pishguncha qaynating. Ko'kat sepib issiqligida tortiq qiling."
+            },
+            {
+                "id": 2,
+                "name": "Mastava",
+                "category": "Suyuq Taomlar",
+                "image": "https://villagarden.decorexpro.com/wp-content/uploads/2019/03/sup-mastava.jpg",
+                "ingredients": [
+                    "400g go'sht",
+                    "0.5 stakan guruch",
+                    "2 dona kartoshka",
+                    "1 dona sabzi",
+                    "1 dona piyoz",
+                    "2 dona pomidor",
+                    "Tuz, qora murch, ko'katlar"
+                ],
+                "instructions": "Go'shtni bo'lak qilib qovuring, piyoz va sabzini qo'shib yana qovuring. Pomidorni maydalab solib, biroz dimlang. Suv quyib qayting. Kartoshkani kub qilib to'g'rab qo'shing. Yarim pishganda guruchni solib, tuz-murch qo'shib pishguncha qaynating. Ko'kat sepib tortiq qiling."
+            },
+            {
+                "id": 3,
+                "name": "Mampar",
+                "category": "Suyuq Taomlar",
+                "image": "https://static.1000.menu/img/content-v2/1c/b1/17217/sup-mampar-po-uzbekski_1680589839_23_max.jpg",
+                "ingredients": [
+                    "400g un",
+                    "1 tuxum",
+                    "150ml suv",
+                    "400g go'sht",
+                    "1 dona bulg'or qalampiri",
+                    "2 dona pomidor",
+                    "1 dona piyoz",
+                    "1 dona sabzi",
+                    "Ziravorlar, ko'katlar"
+                ],
+                "instructions": "Undan qattiqroq xamir qorib, kichik bo'laklarga bo'lib, qo'lda yupqa cho'zib tortib oling. Go'shtni qovurib, sabzavotlarni qo'shib qovurma tayyorlang, suv quyib qayting. Xamir bo'laklarini qaynayotgan sho'rvaga solib 8-10 daqiqa pishiring. Ko'kat sepib issiqligida tortiq qiling."
+            },
+            {
+                "id": 4,
+                "name": "Moshxo'rda",
+                "category": "Suyuq Taomlar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-i5iGaE_eUUN-rKqIG1NXMYtaaQ9-CL_OYUfCIhzloxO2fBzMzjNVE_sw&s=10",
+                "ingredients": [
+                    "1 stakan mosh",
+                    "300g go'sht",
+                    "2 dona kartoshka",
+                    "1 dona piyoz",
+                    "1 dona sabzi",
+                    "Tuz, qora murch, zira"
+                ],
+                "instructions": "Moshni 2-3 soat suvga bo'ktiring. Go'shtni qovurib, piyoz-sabzi qo'shib yana qovuring. Suv quyib qayting. Moshni solib yarim pishguncha qaynating. Kartoshkani kub qilib qo'shing, tuz-ziravor solib hammasi pishguncha qaynating."
+            },
+            {
+                "id": 5,
+                "name": "Tiftel Sho'rva",
+                "category": "Suyuq Taomlar",
+                "image": "https://i.ytimg.com/vi/h9bXkvajPl8/maxresdefault.jpg",
+                "ingredients": [
+                    "400g qiyma go'sht",
+                    "0.3 stakan guruch",
+                    "1 dona tuxum",
+                    "2 dona kartoshka",
+                    "1 dona sabzi",
+                    "1 dona piyoz",
+                    "1 osh qoshiq pomidor pastasi",
+                    "Tuz, qora murch, ko'katlar"
+                ],
+                "instructions": "Qiymaga guruch, tuxum, tuz va murch qo'shib aralashtiring, kichik to'pcha (tiftel) shaklida yumaloqlang. Sabzavotlardan sho'rva qaynatib (kartoshka, sabzi, piyoz, pomidor pastasi), qaynagach tiftellarni ehtiyotlik bilan solib, 15-20 daqiqa qaynating. Ko'kat sepib tortiq qiling."
+            },
+            {
+                "id": 6,
+                "name": "Nohot Sho‘rva",
+                "category": "Suyuq Taomlar",
+                "image": "https://i.ytimg.com/vi/-vdc_YXYktQ/maxresdefault.jpg",
+                "ingredients": [
+                    "300g no‘xot",
+                    "300g qo‘y go‘shti",
+                    "2 dona kartoshka",
+                    "1 dona sabzi",
+                    "1 dona piyoz",
+                    "2 dona pomidor",
+                    "2 osh qoshiq o‘simlik yog‘i",
+                    "1.5 litr suv",
+                    "Tuz",
+                    "Qora murch",
+                    "Zira",
+                    "Ko‘katlar"
+                ],
+                "steps": [
+                    "No‘xotni oldindan 6–8 soat suvga ivitib qo‘ying.",
+                    "Qozonga go‘shtni solib, biroz qovuring.",
+                    "Maydalangan piyoz va sabzini qo‘shib, bir necha daqiqa qovuring.",
+                    "Pomidorni qo‘shib aralashtiring.",
+                    "Ivitilgan no‘xotni solib, ustidan suv quying.",
+                    "Sho‘rvani past olovda no‘xot yumshaguncha pishiring.",
+                    "Kartoshkani to‘g‘rab qo‘shing.",
+                    "Tuz, qora murch va zirani solib, kartoshka pishguncha qaynatib oling.",
+                    "Tayyor sho‘rvaga mayda to‘g‘ralgan ko‘katlar seping.",
+                    "Issiq holda dasturxonga torting."
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Borsh",
+                "category": "Suyuq Taomlar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFN6bWNn6YI7T4LGuUq-fpxfofiR0AFfrEwwd8ENjCBHU9fUnJqKD-tSY&s=10",
+                "ingredients": [
+                    "400g go'sht",
+                    "2 dona lavlagi",
+                    "2 dona kartoshka",
+                    "1 dona sabzi",
+                    "1 dona piyoz",
+                    "200g karam",
+                    "1 osh qoshiq pomidor pastasi",
+                    "Smetana, ko'katlar",
+                    "Tuz, qora murch, sirka"
+                ],
+                "instructions": "Go'shtdan bulyon qaynating. Lavlagini maydalab, sirka bilan alohida dimlang (rangi to'q qizil bo'lishi uchun). Kartoshka, karam, sabzi va piyozni bulyonga solib qayting. Pomidor pastasi va dimlangan lavlagini qo'shing, tuz-murch soling. Tayyor bo'lgach, smetana va ko'kat bilan tortiq qiling."
+            },
+            {
+                "id": 8,
+                "name": "Go‘ja",
+                "category": "Suyuq Taomlar",
+                "image": "https://zira.uz/wp-content/uploads/2018/05/guja-2.jpg",
+                "ingredients": [
+                    "200g jo‘xori yoki bug‘doy yormasi",
+                    "150g qatiq",
+                    "1 dona piyoz",
+                    "1 dona sabzi",
+                    "2 osh qoshiq o‘simlik yog‘i",
+                    "1.5 litr suv",
+                    "Tuz",
+                    "Ko‘katlar"
+                ],
+                "instructions": "Yormani yaxshilab yuvib oling. Qozonga suv solib, yormani yumshaguncha qaynatib pishiring. Piyoz va sabzini mayda to‘g‘rab, yog‘da yengil qovuring va qozonga qo‘shing. Tuz solib, barcha masalliqlar pishguncha qaynatishda davom eting. Taomni biroz sovutib, qatiq qo‘shing va yaxshilab aralashtiring. Ustiga mayda to‘g‘ralgan ko‘katlar sepib dasturxonga torting."
+            },
+            {
+                "id": 9,
+                "name": "Okroshka",
+                "category": "Suyuq Taomlar",
+                "image": "https://recipeworld.blog/recipes/okroshka.webp",
+                "ingredients": [
+                    "3 dona kartoshka",
+                    "2 dona tuxum",
+                    "2 dona yangi bodring",
+                    "150g qaynatilgan go‘sht",
+                    "100g turp",
+                    "500ml qatiq",
+                    "500ml sovuq suv",
+                    "1 choy qoshiq xantal",
+                    "Tuz",
+                    "Ko‘katlar"
+                ],
+                "instructions": "Kartoshka va tuxumni alohida qaynatib, sovuting. Qaynatilgan kartoshka, tuxum, go‘sht, bodring va turpni mayda qilib to‘g‘rang. Barcha masalliqlarni katta idishga soling. Qatiq, sovuq suv va xantalni alohida aralashtirib, idishdagi masalliqlar ustidan quying. Tuz solib, yaxshilab aralashtiring. Ustiga mayda to‘g‘ralgan ko‘katlar sepib, sovuq holda dasturxonga torting."
+            },
+            {
+                "id": 10,
+                "name": "Chuchvara",
+                "category": "Suyuq Taomlar",
+                "image": "https://thumbs.dreamstime.com/b/dumplings-soup-chuchvara-manti-lamb-meat-uzbek-cuisine-banner-menu-recipe-place-text-top-view-268932965.jpg",
+                "ingredients": [
+                    "400g un",
+                    "1 tuxum",
+                    "150ml suv",
+                    "300g qiyma go'sht",
+                    "1 dona piyoz",
+                    "Tuz, qora murch",
+                    "Sho'rva uchun go'sht bulyoni"
+                ],
+                "instructions": "Undan, tuxum va suvdan qattiq xamir qorib, dam bering. Qiymaga mayda to'g'ralgan piyoz, tuz va murch qo'shib aralashtiring. Xamirni yupqa yoying, kichik kvadratlarga kesing. Har biriga qiyma qo'yib, uchburchak qilib yoping va uchlarini birlashtiring. Qaynayotgan go'sht bulyonida chuchvaralarni 7-10 daqiqa pishiring."
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "name": "Go'shtli Somsa",
+                "category": "Xamirli Taomlar",
+                "image": "https://onebuy1.s3.eu-central-003.backblazeb2.com/extiyoj/products/file_6a264fef665758.59072722.jpg",
+                "ingredients": [
+                    "500g mol yoki qo'y go'shti",
+                    "500g un",
+                    "3 dona piyoz",
+                    "200ml suv",
+                    "100g sariyog'",
+                    "1 dona tuxum",
+                    "Tuz, qora murch, zira"
+                ],
+                "instructions": "Un, suv va tuzdan yumshoq xamir qorib, 20 daqiqa tindiring. Go'sht va piyozni mayda to'g'rab, tuz, murch va zira bilan aralashtiring. Xamirni yoyib, ustiga eritilgan sariyog' surting va rulet qilib o'rang. Xamirni bo'laklarga kesib, har birini yoying. Ichiga go'shtli masalliqdan solib, uchburchak shaklda yoping. Ustiga tuxum surting va 200°C da qizarguncha pishiring."
+            },
+            {
+                "id": 2,
+                "name": "Tovuqli Somsa",
+                "category": "Xamirli Taomlar",
+                "image": "https://onebuy1.s3.eu-central-003.backblazeb2.com/extiyoj/products/file_6a264feb9bced0.57276521.jpg",
+                "ingredients": [
+                    "500g tovuq go'shti",
+                    "500g un",
+                    "3 dona piyoz",
+                    "200ml suv",
+                    "100g sariyog'",
+                    "1 dona tuxum",
+                    "Tuz, qora murch, zira"
+                ],
+                "instructions": "Un, suv va tuzdan xamir qorib, tindirib qo'ying. Tovuq go'shti va piyozni mayda to'g'rang. Tuz, qora murch va zira qo'shib aralashtiring. Xamirni yupqa yoyib, sariyog' surting va o'rab bo'laklarga kesing. Har bir bo'lakni yoyib, ichiga tovuqli masalliq soling va uchburchak shaklda yoping. Ustiga tuxum surib, 200°C da tillarang bo'lguncha pishiring."
+            },
+            {
+                "id": 3,
+                "name": "Kartoshkali Somsa",
+                "category": "Xamirli Taomlar",
+                "image": "https://onebuy1.s3.eu-central-003.backblazeb2.com/extiyoj/products/file_6a264febd7bc40.29266392.jpg",
+                "ingredients": [
+                    "500g un",
+                    "4 dona kartoshka",
+                    "2 dona piyoz",
+                    "200ml suv",
+                    "100g sariyog'",
+                    "1 dona tuxum",
+                    "Tuz, qora murch, zira"
+                ],
+                "instructions": "Un, suv va tuzdan xamir qorib, 20 daqiqa tindiring. Kartoshka va piyozni mayda kubik qilib to'g'rang. Tuz, qora murch va zira qo'shib aralashtiring. Xamirni yoyib, sariyog' surting va o'rab bo'laklarga kesing. Har bir bo'lakni yoyib, ichiga kartoshkali masalliqdan soling. Uchburchak shaklda yopib, ustiga tuxum surting. 200°C da qizarguncha pishiring."
+            },
+            {
+                "id": 4,
+                "name": "Qovoqli Somsa",
+                "category": "Xamirli Taomlar",
+                "image": "https://onebuy1.s3.eu-central-003.backblazeb2.com/extiyoj/products/file_6a264feb56a540.24375269.jpg",
+                "ingredients": [
+                    "500g un",
+                    "500g qovoq",
+                    "2 dona piyoz",
+                    "200ml suv",
+                    "100g sariyog'",
+                    "1 dona tuxum",
+                    "Tuz, qora murch, zira"
+                ],
+                "instructions": "Un, suv va tuzdan xamir qorib, 20 daqiqa tindiring. Qovoqni tozalab, mayda kubik qilib to'g'rang. Piyozni mayda to'g'rab, qovoq bilan aralashtiring. Tuz, qora murch va zira qo'shing. Xamirni yupqa yoyib, sariyog' surting va o'rab bo'laklarga kesing. Har bir bo'lakni yoyib, ichiga qovoqli masalliq solib, uchburchak shaklda yoping. Ustiga tuxum surting va 200°C da qizarguncha pishiring."
+            },
+            {
+                "id": 5,
+                "name": "Ko'k Somsa",
+                "category": "Xamirli Taomlar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMG9ZC7Mq29ib3QefsirYN2FJkEDo4vxFCOlfaU9Rs0qCIZrD23mDFFIy0&s=10",
+                "ingredients": [
+                    "500g un",
+                    "300g ismaloq",
+                    "100g ko'k piyoz",
+                    "50g kashnich",
+                    "2 dona piyoz",
+                    "200ml suv",
+                    "100g sariyog'",
+                    "1 dona tuxum",
+                    "Tuz, qora murch"
+                ],
+                "instructions": "Un, suv va tuzdan xamir qorib, tindirib qo'ying. Ismaloq, ko'k piyoz, kashnich va piyozni mayda to'g'rang. Tuz va qora murch qo'shib aralashtiring. Xamirni yoyib, sariyog' surting va o'rab bo'laklarga kesing. Har bir bo'lakni yoyib, ichiga ko'katli masalliq soling. Uchburchak shaklda yoping va ustiga tuxum surting. 200°C da tillarang bo'lguncha pishiring."
+            },
+            {
+                "id": 6,
+                "name": "Norin",
+                "category": "Xamirli Taomlar",
+                "image": "https://makepedia.uz/wp-content/uploads/2018/08/norin-tayyorlash.jpg",
+                "ingredients": [
+                    "500g un",
+                    "250ml suv",
+                    "500g mol yoki ot go'shti",
+                    "2 dona tuxum",
+                    "1 dona piyoz",
+                    "2 osh qoshiq o'simlik yog'i",
+                    "Tuz, qora murch, zira"
+                ],
+                "instructions": "Un, tuxum, suv va tuzdan qattiqroq xamir qorib, 20-30 daqiqa tindiring. Xamirni juda yupqa qilib yoyib, bir necha qatlamga ajrating va har bir qatlamni quriting. Qurigan xamirlarni qaynatib, sovuting va juda ingichka qilib kesing. Go'shtni tuzli suvda yaxshilab pishirib, sovutgach, mayda qilib to'g'rang. Kesilgan xamirni go'sht bilan aralashtiring. Ustidan ozgina go'sht sho'rvasi va yog' qo'shing. Piyozni yupqa to'g'rab, ziravorlar bilan aralashtirib norin ustiga soling."
+            },
+            {
+                "id": 7,
+                "name": "Go'shtli Manti",
+                "category": "Xamirli Taomlar",
+                "image": "https://cdn.delever.uz/delever/6c382817-3580-4478-9445-ccb764eb1676",
+                "ingredients": [
+                    "500g un",
+                    "500g qo'y yoki mol go'shti",
+                    "3 dona piyoz",
+                    "200ml suv",
+                    "1 dona tuxum",
+                    "2 osh qoshiq o'simlik yog'i",
+                    "Tuz, qora murch, zira"
+                ],
+                "instructions": "Un, tuxum, suv va tuzdan qattiqroq xamir qorib, 20 daqiqa tindiring. Go'shtni va piyozni mayda to'g'rang. Tuz, qora murch va zira qo'shib aralashtiring. Xamirni yupqa yoyib, kvadrat shaklda kesing. Har bir xamir bo'lagining o'rtasiga go'shtli masalliqdan solib, chetlarini birlashtirib manti shaklida yoping. Mantilarni yog'langan manti qasqoniga tering. Bug'da 40-45 daqiqa davomida pishiring."
+            },
+            {
+                "id": 8,
+                "name": "Qovoqli Manti",
+                "category": "Xamirli Taomlar",
+                "image": "https://cdn.delever.uz/delever/14ef81d0-f805-4a66-a03c-c1f76703ea91",
+                "ingredients": [
+                    "500g un",
+                    "500g qovoq",
+                    "3 dona piyoz",
+                    "200ml suv",
+                    "1 dona tuxum",
+                    "2 osh qoshiq o'simlik yog'i",
+                    "Tuz, qora murch, zira"
+                ],
+                "instructions": "Un, tuxum, suv va tuzdan xamir qorib, 20 daqiqa tindiring. Qovoqni tozalab, mayda kubik qilib to'g'rang. Piyozni mayda to'g'rab, qovoq bilan aralashtiring. Tuz, qora murch va zira qo'shing. Xamirni yupqa yoyib, kvadrat shaklda kesing. Har bir bo'lakka qovoqli masalliqdan solib, manti shaklida yoping. Manti qasqonini yog'lab, mantilarni tering. Bug'da 40-45 daqiqa davomida pishiring."
+            },
+            {
+                "id": 9,
+                "name": "Patir",
+                "category": "Xamirli Taomlar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lvFVZWRWzGK2zbiRjJxPTVXKLGvWs6FKiwgZ1yKOgcbO6x1a88xv2NBD&s=10",
+                "ingredients": [
+                    "500g un",
+                    "250ml iliq suv",
+                    "100ml sut",
+                    "50g sariyog‘",
+                    "1 choy qoshiq tuz",
+                    "1 choy qoshiq shakar",
+                    "1 choy qoshiq quruq xamirturush"
+                ],
+                "instructions": "Iliq suv va sutga xamirturush, shakar va tuz qo‘shing. Un solib, yumshoq xamir qoring. Xamirni 40-50 daqiqa tindiring. Xamirni bo‘laklarga ajratib, yoying va ustiga eritilgan sariyog‘ surting. Xamirni o‘rab, yana yoyib patir shaklini bering. Ustini bezatib, 200°C da qizarguncha pishiring."
+            },
+            {
+                "id": 10,
+                "name": "Bo‘g‘irsoq",
+                "category": "Xamirli Taomlar",
+                "image": "https://zira.uz/wp-content/uploads/2018/06/bagursaki5.jpg",
+                "ingredients": [
+                    "500g un",
+                    "250ml iliq sut",
+                    "1 dona tuxum",
+                    "2 osh qoshiq shakar",
+                    "1 choy qoshiq quruq xamirturush",
+                    "0.5 choy qoshiq tuz",
+                    "O‘simlik yog‘i"
+                ],
+                "instructions": "Iliq sutga xamirturush va shakar qo‘shib, bir necha daqiqa tindiring. Tuxum, tuz va un qo‘shib, yumshoq xamir qoring. Xamirni tindirib, kichik bo‘laklarga bo‘ling. Har bir bo‘lakni yumaloqlang. Qizdirilgan yog‘da bo‘g‘irsoqlarni oltinrang bo‘lguncha qovuring."
+            },
+            {
+                "id": 11,
+                "name": "Chak-chak",
+                "category": "Xamirli Taomlar",
+                "image": "https://media.istockphoto.com/id/1170819649/photo/chak-chak-with-honey.jpg?s=170667a&w=0&k=20&c=nPiuMJNBzIAVsi5RFTYpEYJE-Y0Rh5Ok3unrF-WM4Ls=",
+                "ingredients": [
+                    "400g un",
+                    "4 dona tuxum",
+                    "1 osh qoshiq shakar",
+                    "0.5 choy qoshiq tuz",
+                    "300g asal",
+                    "100g shakar",
+                    "O‘simlik yog‘i"
+                ],
+                "instructions": "Tuxum, shakar va tuzni aralashtiring. Un qo‘shib, qattiqroq xamir qoring. Xamirni yupqa yoyib, mayda bo‘laklarga kesing. Bo‘laklarni qizdirilgan yog‘da qovuring. Asal va shakarni past olovda aralashtirib, sirop tayyorlang. Qovurilgan xamirlarni sirop bilan aralashtirib, shakl bering. Sovugach dasturxonga torting."
+            },
+            {
+                "id": 12,
+                "name": "Qatlama",
+                "category": "Xamirli Taomlar",
+                "image": "https://zira.uz/wp-content/uploads/2022/04/milter.-katlama-s-zelenyu-6.jpg",
+                "ingredients": [
+                    "500g un",
+                    "250ml iliq suv",
+                    "100g sariyog‘",
+                    "1 choy qoshiq tuz",
+                    "1 dona piyoz",
+                    "O‘simlik yog‘i"
+                ],
+                "instructions": "Un, suv va tuzdan yumshoq xamir qoring va tindiring. Xamirni juda yupqa qilib yoying. Ustiga eritilgan sariyog‘ surting. Mayda to‘g‘ralgan piyozni seping. Xamirni o‘rab, yana yoying. Qatlamli xamirni tovaga solib, ikki tomonini qizarguncha pishiring."
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "name": "Achichuk",
+                "category": "Salatlar",
+                "image": "https://www.tasteatlas.com/images/dishes/d0cb02e857914e3d80f0a98681cb2e56.jpg",
+                "ingredients": [
+                    "3 dona pomidor",
+                    "1 dona piyoz",
+                    "1 dona achchiq qalampir",
+                    "Yarim bog' kashnich",
+                    "Tuz"
+                ],
+                "instructions": "Pomidorlarni yupqa qilib to'g'rang. Piyozni ham juda yupqa halqa shaklida kesing. Achchiq qalampirni mayda to'g'rab qo'shing. Kashnichni maydalab, barcha masalliqlarni aralashtiring. Tuz sepib, dasturxonga torting."
+            },
+            {
+                "id": 2,
+                "name": "Olivye",
+                "category": "Salatlar",
+                "image": "https://www.tasteatlas.com/Images/Dishes/4ead9215212342ddbcaac246fc7a8398.jpg?mw=1300",
+                "ingredients": [
+                    "3 dona kartoshka",
+                    "2 dona sabzi",
+                    "3 dona tuxum",
+                    "200g kolbasa",
+                    "2 dona tuzlangan bodring",
+                    "150g yashil no'xat",
+                    "150g mayonez",
+                    "Tuz, qora murch"
+                ],
+                "instructions": "Kartoshka, sabzi va tuxumni qaynatib, sovuting. Barchasini mayda kubik qilib to'g'rang. Kolbasa va tuzlangan bodringni ham kubik qilib kesing. Yashil no'xatni qo'shing. Mayonez, tuz va qora murch solib, yaxshilab aralashtiring."
+            },
+            {
+                "id": 3,
+                "name": "Suzma Salat",
+                "category": "Salatlar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxlclDkfWfz_1lobz6BoceKh7k8F9fXllVDdG2AdRDQwc3_BJ_McWte-0&s=10",
+                "ingredients": [
+                    "300g suzma",
+                    "2 dona bodring",
+                    "1 dona pomidor",
+                    "Yarim bog' ko'k piyoz",
+                    "Yarim bog' kashnich",
+                    "Tuz"
+                ],
+                "instructions": "Bodring va pomidorni mayda to'g'rang. Ko'k piyoz va kashnichni maydalang. Suzmani idishga solib, barcha masalliqlarni qo'shing. Tuz sepib, yaxshilab aralashtiring va dasturxonga torting."
+            },
+            {
+                "id": 4,
+                "name": "Lavlagili Salat",
+                "category": "Salatlar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuzc5NOqfXAtPTpA37hMA4ONyZqEjuduQDgZkUVV6v9quFb7vg5dwUtM&s=10",
+                "ingredients": [
+                    "3 dona kartoshka",
+                    "200g karam",
+                    "250g mol go'shti",
+                    "3 dona konservalangan bodring",
+                    "3 dona tuxum",
+                    "2 dona sabzi",
+                    "2 dona lavlagi",
+                    "150g konservalangan makkajo'xori",
+                    "4 osh qoshiq mayonez",
+                    "Tuz"
+                ],
+                "instructions": "Kartoshka, sabzi, lavlagi va tuxumni alohida qaynatib, sovuting. Go'shtni ham tuzli suvda yaxshilab pishirib, sovutib oling. Barcha masalliqlarni mayda qilib to'g'rang. Karam va konservalangan bodringni ham mayda qilib tayyorlang. Barcha masalliqlarni katta idishga solib, konservalangan makkajo'xori va mayonez qo'shing. Tuz solib, yaxshilab aralashtiring. Salatni biroz tindirib, dasturxonga torting."
+            },
+            {
+                "id": 5,
+                "name": "Bahor Salati",
+                "category": "Salatlar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4D2t3QsHSRbO55kxVJ7BJHXzpxaMPno6L39JtDftSQ&s=10",
+                "ingredients": [
+                    "2 dona bodring",
+                    "2 dona pomidor",
+                    "1 dona piyoz",
+                    "Yarim bog' ko'k piyoz",
+                    "Yarim bog' kashnich",
+                    "Yarim bog' ukrop",
+                    "Tuz"
+                ],
+                "instructions": "Bodring va pomidorni mayda yoki o'rtacha bo'laklarga to'g'rang. Piyoz, ko'k piyoz, kashnich va ukropni maydalang. Barcha masalliqlarni bir idishga solib aralashtiring. Tuz sepib, yangi holatda dasturxonga torting."
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "name": "Keks",
+                "category": "Pishiriqlar",
+                "image": "https://news.milli.az/media/2026/06/24/keks_biskivit.jpg",
+                "ingredients": [
+                    "250g un",
+                    "150g shakar",
+                    "100g sariyog‘",
+                    "3 dona tuxum",
+                    "100ml sut",
+                    "1 choy qoshiq qabartma",
+                    "1 choy qoshiq vanilin"
+                ],
+                "instructions": "Yumshagan sariyog‘ni shakar bilan yaxshilab aralashtiring. Tuxumlarni birma-bir qo‘shib aralashtiring. Sut va vanilin soling. Un va qabartmani qo‘shib, bir xil xamir hosil qiling. Xamirni qolipga solib, 180°C da 35-40 daqiqa pishiring."
+            },
+            {
+                "id": 2,
+                "name": "Medovik",
+                "category": "Pishiriqlar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDQvXplnftxteyWZbO5gdkC-sDIQ4xFEJpyJ5JUYCvzA&s=10",
+                "ingredients": [
+                    "500g un",
+                    "150g asal",
+                    "150g shakar",
+                    "100g sariyog‘",
+                    "3 dona tuxum",
+                    "1 choy qoshiq soda",
+                    "600g smetana",
+                    "150g shakar kukuni"
+                ],
+                "instructions": "Asal, shakar va sariyog‘ni past olovda eritib aralashtiring. Tuxum va sodani qo‘shing. Un solib yumshoq xamir tayyorlang. Xamirni bir nechta bo‘lakka bo‘lib, yupqa yoying va 180°C da alohida pishiring. Smetana va shakar kukunidan krem tayyorlang. Pishgan qatlamlarni krem bilan birma-bir surting. Tortni bir necha soat tindiring."
+            },
+            {
+                "id": 3,
+                "name": "Napoleon",
+                "category": "Pishiriqlar",
+                "image": "https://zira.uz/wp-content/uploads/2018/03/napoleon-8.jpeg",
+                "ingredients": [
+                    "500g un",
+                    "250g sariyog‘",
+                    "2 dona tuxum",
+                    "200ml sovuq suv",
+                    "1 osh qoshiq sirka",
+                    "500ml sut",
+                    "150g shakar",
+                    "2 dona tuxum sarig‘i",
+                    "2 osh qoshiq un",
+                    "1 choy qoshiq vanilin"
+                ],
+                "instructions": "Un va sovuq sariyog‘ni uqalab aralashtiring. Tuxum, suv va sirka qo‘shib xamir tayyorlang. Xamirni tindirib, yupqa qatlamlarga yoying va alohida pishiring. Krem uchun sut, shakar, tuxum sarig‘i, un va vanilinni aralashtirib, quyuqlashguncha pishiring. Sovigan qatlamlar orasiga krem surting. Ustini maydalangan qatlam bilan bezang va tindiring."
+            },
+            {
+                "id": 4,
+                "name": "Murabboli Pechenye",
+                "category": "Pishiriqlar",
+                "image": "https://data.daryo.uz/media/2021/02/photo_2021-02-13_00-32-08.jpg",
+                "ingredients": [
+                    "300g un",
+                    "150g sariyog‘",
+                    "100g shakar",
+                    "1 dona tuxum",
+                    "1 choy qoshiq vanilin",
+                    "0.5 choy qoshiq qabartma",
+                    "150g murabbo"
+                ],
+                "instructions": "Sariyog‘ va shakarni aralashtiring. Tuxum va vanilin qo‘shing. Un va qabartmani solib, yumshoq xamir qoring. Xamirni yoyib, kichik shakllarda kesing. Har birining o‘rtasiga ozgina murabbo soling. 180°C da 15-20 daqiqa pishiring."
+            },
+            {
+                "id": 5,
+                "name": "Olmali Pirog",
+                "category": "Pishiriqlar",
+                "image": "https://casianews.com/upload/2026/04/29042026143200-1777455120.jpg",
+                "ingredients": [
+                    "300g un",
+                    "150g shakar",
+                    "120g sariyog‘",
+                    "2 dona tuxum",
+                    "3 dona olma",
+                    "1 choy qoshiq qabartma",
+                    "1 choy qoshiq dolchin"
+                ],
+                "instructions": "Sariyog‘ va shakarni aralashtirib, tuxumlarni qo‘shing. Un va qabartmani solib xamir tayyorlang. Olmalarni po‘stidan tozalab, yupqa qilib to‘g‘rang. Xamirning bir qismini qolipga yoying, ustiga olmalarni terib, dolchin seping. Qolgan xamirni ustiga joylashtiring. 180°C da 35-40 daqiqa pishiring."
+            },
+            {
+                "id": 6,
+                "name": "Shokoladli Muffin",
+                "category": "Pishiriqlar",
+                "image": "https://www.tasteofhome.com/wp-content/uploads/2025/03/Chocolate-Sour-Cream-Muffins_EXPS_TOHD24_15163_AlejandroMonfort_6.jpg",
+                "ingredients": [
+                    "200g un",
+                    "100g shakar",
+                    "2 dona tuxum",
+                    "100ml sut",
+                    "80ml o‘simlik yog‘i",
+                    "2 osh qoshiq kakao",
+                    "1 choy qoshiq qabartma",
+                    "100g shokolad"
+                ],
+                "instructions": "Tuxum va shakarni aralashtiring. Sut va yog‘ qo‘shing. Un, kakao va qabartmani solib aralashtiring. Mayda to‘g‘ralgan shokoladni qo‘shing. Tayyor xamirni muffin qoliplariga bo‘lib soling. 180°C da 20-25 daqiqa pishiring."
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "name": "Kompot",
+                "category": "Ichimliklar",
+                "image": "https://zira.uz/wp-content/uploads/2020/06/kompot-fruktovo-yagodnyi---3.jpg",
+                "ingredients": [
+                    "300g olma",
+                    "200g o‘rik",
+                    "150g olcha",
+                    "150g shakar",
+                    "2 litr suv"
+                ],
+                "instructions": "Mevalarni yaxshilab yuvib, kerak bo‘lsa bo‘laklarga bo‘ling. Qozonga suv solib qaynatib oling. Mevalarni suvga solib, 10-15 daqiqa qaynatib pishiring. Shakar qo‘shib, yana bir necha daqiqa qaynatib oling. Kompotni sovutib, dasturxonga torting."
+            },
+            {
+                "id": 2,
+                "name": "Qora Choy",
+                "category": "Ichimliklar",
+                "image": "https://yuz.uz/imageproxy/980x/https://yuz.uz/file/news/f4bf747ad437c472cb015eb3b369b8d9.jpeg",
+                "ingredients": [
+                    "2 choy qoshiq qora choy",
+                    "500ml qaynoq suv",
+                    "Shakar"
+                ],
+                "instructions": "Choynakni qaynoq suv bilan chayib oling. Choy solib, ustidan qaynoq suv quying. 5-7 daqiqa damlang. Ta’bga ko‘ra shakar qo‘shib, issiq holda iching."
+            },
+            {
+                "id": 3,
+                "name": "Ko‘k Choy",
+                "category": "Ichimliklar",
+                "image": "https://aniq.uz/photos/news/o2jZvNpZKoz6H7Z.jpeg",
+                "ingredients": [
+                    "2 choy qoshiq ko‘k choy",
+                    "500ml qaynoq suv",
+                    "Shakar"
+                ],
+                "instructions": "Choynakni qaynoq suv bilan chayib oling. Ko‘k choyni choynakka soling va ustidan qaynoq suv quying. 5 daqiqa damlang. Ta’bga ko‘ra shakar qo‘shib, issiq holda dasturxonga torting."
+            },
+            {
+                "id": 4,
+                "name": "Sumalak",
+                "category": "Ichimliklar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk2uZZo0f_Z7m5TQWI-xParAPHY3EHcfFhPVCUiHfFwrcAiMpEyvB1Mmo&s=10",
+                "ingredients": [
+                    "1kg bug‘doy",
+                    "3 litr suv",
+                    "200g un",
+                    "100ml o‘simlik yog‘i"
+                ],
+                "instructions": "Bug‘doyni yaxshilab yuvib, 2-3 kun davomida namlab undiring. Unib chiqqan bug‘doyni maydalab, suv bilan aralashtiring va suzib oling. Hosil bo‘lgan suyuqlikka un va yog‘ qo‘shib, yaxshilab aralashtiring. Katta qozonda past olovda uzoq vaqt davomida qaynatib, tagiga olmasligi uchun muntazam aralashtirib turing. Sumalak quyuqlashib, to‘q rangga kirgach, olovni o‘chiring va biroz tindirib qo‘ying."
+            },
+            {
+                "id": 5,
+                "name": "Ayran",
+                "category": "Ichimliklar",
+                "image": "https://zira.uz/wp-content/uploads/2018/05/ayran-1.jpg",
+                "ingredients": [
+                    "500ml qatiq",
+                    "500ml sovuq suv",
+                    "0.5 choy qoshiq tuz",
+                    "Yalpiz yoki ko‘katlar"
+                ],
+                "instructions": "Qatiqni idishga solib, yaxshilab aralashtiring. Sovuq suv va tuz qo‘shing. Bir xil massa hosil bo‘lguncha aralashtiring. Xohishga ko‘ra mayda to‘g‘ralgan yalpiz yoki ko‘katlar qo‘shing. Sovuq holda dasturxonga torting."
+            },
+            {
+                "id": 6,
+                "name": "Sharbat",
+                "category": "Ichimliklar",
+                "image": "https://c.ndtvimg.com/2023-03/38l3fp48_sharbat_625x300_20_March_23.jpg?im=FaceCrop,algorithm=dnn,width=620,height=350",
+                "ingredients": [
+                    "3 dona apelsin",
+                    "2 dona olma",
+                    "1 dona limon",
+                    "500ml sovuq suv",
+                    "2 osh qoshiq shakar"
+                ],
+                "instructions": "Mevalarni yaxshilab yuvib, sharbatini siqib oling. Apelsin, olma va limon sharbatlarini bir idishda aralashtiring. Sovuq suv va shakar qo‘shib, yaxshilab aralashtiring. Muzlatkichda biroz sovutib, dasturxonga torting."
+            }
+        ]
+    ]
 }

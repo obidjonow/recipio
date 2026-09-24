@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import recipioData from './data/recipio.json';
+import logo from '../public/logo.png'
 
 const ALL_MEALS = recipioData.recipio.flat();
 
@@ -48,10 +49,25 @@ const EXCLUDE_WORDS = [
 
 function App() {
   const [search, setSearch] = useState('');
-  const [heroImage, setHeroImage] = useState(null);
+  const [heroImages, setHeroImages] = useState([]);
+  const [heroIndex, setHeroIndex] = useState(0);
   const [activeCategory, setActiveCategory] = useState('hammasi');
   const [selectedMeal, setSelectedMeal] = useState(null);
 
+  if (clean.length > 0) {
+    const shuffled = [...clean].sort(() => Math.random() - 0.5);
+    setHeroImages(shuffled.slice(0, 5).map((photo) => photo.src.large));
+  }
+
+  useEffect(() => {
+    if (heroImages.length < 2) return;
+
+    const id = setInterval(() => {
+      setHeroIndex((prev) => (prev + 1) % heroImages.length);
+    }, 3500);
+
+    return () => clearInterval(id);
+  }, [heroImages]);
 
   const filteredMeals = ALL_MEALS.filter((meal) => {
     const categoryMatch =
@@ -152,7 +168,7 @@ function App() {
 
 
       <header className="header">
-        <h1>Recipio</h1>
+        <img width={150} src={logo} alt="" />
       </header>
 
       <main className="main">
@@ -190,23 +206,20 @@ function App() {
 
 
         <div className="hero-div">
-
-          {heroImage && (
+          {heroImages.length > 0 && (
             <div className="hero-visual">
+              {heroImages.map((src, i) => (
+                <img
+                  key={src}
+                  className={`hero-img ${i === heroIndex ? 'active' : ''}`}
+                  src={src}
+                  alt="O‘zbek taomi"
+                />
+              ))}
 
-              <img
-                className="hero-img"
-                src={heroImage}
-                alt="O‘zbek taomi"
-              />
-
-              <div className="tag">
-                O‘zbek taomlari
-              </div>
-
+              <div className="tag">O‘zbek taomlari</div>
             </div>
           )}
-
         </div>
 
       </main>
@@ -219,8 +232,8 @@ function App() {
 
           <button
             className={`chip ${activeCategory === 'hammasi'
-                ? 'active'
-                : ''
+              ? 'active'
+              : ''
               }`}
             onClick={() => setActiveCategory('hammasi')}
           >
@@ -233,8 +246,8 @@ function App() {
             <button
               key={cat}
               className={`chip ${activeCategory === cat
-                  ? 'active'
-                  : ''
+                ? 'active'
+                : ''
                 }`}
               onClick={() => setActiveCategory(cat)}
             >
