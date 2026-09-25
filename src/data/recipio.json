@@ -195,6 +195,22 @@
                     "1.5 stakan suv"
                 ],
                 "instructions": "Karamning tashqi barglarini ajratib, qaynoq suvda yumshating. Piyozni mayda to'g'rab, sabzi bilan yog'da qovuring. Qiyma go'sht va yuvilgan guruchni qo'shib, tuz, qora murch va zira soling. Masalliqni yaxshilab aralashtiring. Yumshagan karam barglariga tayyor qiymadan solib, o'rang. Dolmalarni qozonga zich qilib tering. Tomat pastasini suv bilan aralashtirib, ustidan quying. Qopqog'ini yopib, past olovda karam va ichidagi masalliqlar to'liq pishguncha dimlab pishiring."
+            },
+            {
+                "id": 14,
+                "name": "Xalim",
+                "category": "Quyuq Taomlar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwywamohv4zL9sYPmVathe6qhpuCJ05Tl6wMKgSnTUGWF0CVw3HNwwLn1n&s=10",
+                "ingredients": [
+                    "Bug‘doy",
+                    "Mol go‘shti",
+                    "Piyoz",
+                    "Yog‘",
+                    "Suv",
+                    "Tuz",
+                    "Ziravorlar"
+                ],
+                "instructions": "Bug‘doyni yaxshilab yuvib, ivitiladi. Go‘sht va piyoz yog‘da qovuriladi. So‘ng bug‘doy va suv qo‘shilib, barcha masalliqlar yaxshilab pishguncha uzoq vaqt davomida aralashtirib qaynatiladi. Tayyor bo‘lgach, tuz va ziravorlar qo‘shiladi."
             }
         ],
         [
@@ -532,6 +548,23 @@
             },
             {
                 "id": 10,
+                "name": "Go‘shtli Honim",
+                "category": "Xamirli Taomlar",
+                "image": "https://zira.uz/wp-content/uploads/2018/01/hanum2-11.jpg",
+                "ingredients": [
+                    "Un",
+                    "Mol go‘shti",
+                    "Piyoz",
+                    "Kartoshka",
+                    "Yog‘",
+                    "Suv",
+                    "Tuz",
+                    "Qora murch"
+                ],
+                "instructions": "Un, suv va tuzdan yumshoq xamir qoriladi. Xamir yupqa qilib yoyiladi. Maydalangan go‘sht, piyoz va kartoshka aralashtirilib, xamir ustiga bir tekisda solinadi. Xamir o‘ralib, bug‘da yaxshilab pishiriladi. Tayyor bo‘lgach, bo‘laklarga kesib dasturxonga tortiladi."
+            },
+            {
+                "id": 11,
                 "name": "Bo‘g‘irsoq",
                 "category": "Xamirli Taomlar",
                 "image": "https://zira.uz/wp-content/uploads/2018/06/bagursaki5.jpg",
@@ -547,7 +580,7 @@
                 "instructions": "Iliq sutga xamirturush va shakar qo‘shib, bir necha daqiqa tindiring. Tuxum, tuz va un qo‘shib, yumshoq xamir qoring. Xamirni tindirib, kichik bo‘laklarga bo‘ling. Har bir bo‘lakni yumaloqlang. Qizdirilgan yog‘da bo‘g‘irsoqlarni oltinrang bo‘lguncha qovuring."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "Chak-chak",
                 "category": "Xamirli Taomlar",
                 "image": "https://media.istockphoto.com/id/1170819649/photo/chak-chak-with-honey.jpg?s=170667a&w=0&k=20&c=nPiuMJNBzIAVsi5RFTYpEYJE-Y0Rh5Ok3unrF-WM4Ls=",
@@ -563,7 +596,7 @@
                 "instructions": "Tuxum, shakar va tuzni aralashtiring. Un qo‘shib, qattiqroq xamir qoring. Xamirni yupqa yoyib, mayda bo‘laklarga kesing. Bo‘laklarni qizdirilgan yog‘da qovuring. Asal va shakarni past olovda aralashtirib, sirop tayyorlang. Qovurilgan xamirlarni sirop bilan aralashtirib, shakl bering. Sovugach dasturxonga torting."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "Qatlama",
                 "category": "Xamirli Taomlar",
                 "image": "https://zira.uz/wp-content/uploads/2022/04/milter.-katlama-s-zelenyu-6.jpg",

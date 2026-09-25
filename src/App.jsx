@@ -1,9 +1,18 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 import './App.css';
 import recipioData from './data/recipio.json';
 import logo from '../public/logo.png'
 
 const ALL_MEALS = recipioData.recipio.flat();
+
+const normalize = (text = '') => {
+  return text
+    .toLowerCase()
+    .replace(/[‘’ʻ`]/g, "'")
+    .replace(/'/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+};
 
 const CATEGORIES = [
   'Quyuq Taomlar',
@@ -52,6 +61,7 @@ function App() {
   const [heroImage, setHeroImage] = useState(null);
   const [activeCategory, setActiveCategory] = useState('hammasi');
   const [selectedMeal, setSelectedMeal] = useState(null);
+  const section2Ref = useRef(null);
 
 
   const filteredMeals = ALL_MEALS.filter((meal) => {
@@ -59,22 +69,41 @@ function App() {
       activeCategory === 'hammasi' ||
       meal.category === activeCategory;
 
-    const searchText = search.toLowerCase().trim();
+    const searchText = normalize(search);
 
-    const nameMatch = meal.name
-      .toLowerCase()
-      .includes(searchText);
+    if (!searchText) {
+      return categoryMatch;
+    }
 
-    const ingredientMatch = meal.ingredients?.some((ingredient) =>
-      ingredient.toLowerCase().includes(searchText)
+    const name = normalize(meal.name);
+
+    const ingredients = meal.ingredients
+      ?.map((ingredient) => normalize(ingredient))
+      .join(" ");
+
+    const keywords = meal.keywords
+      ?.map((keyword) => normalize(keyword))
+      .join(" ");
+
+    const searchableText = `
+    ${name}
+    ${ingredients || ""}
+    ${keywords || ""}
+  `;
+
+    return (
+      categoryMatch &&
+      searchableText.includes(searchText)
     );
-
-    return categoryMatch && (nameMatch || ingredientMatch);
   });
 
 
-  useEffect(() => { 
-    const getHeroImage = async () => {
+  useEffect(() => {
+    let images = [];
+    let currentIndex = 0;
+    let interval;
+
+    const getHeroImages = async () => {
       try {
         const randomQuery =
           UZBEK_IMAGES[
@@ -117,11 +146,18 @@ function App() {
             );
           });
 
-          if (clean.length > 0) {
-            const random =
-              clean[Math.floor(Math.random() * clean.length)];
+          images = clean.map((photo) => photo.src.large);
 
-            setHeroImage(random.src.large);
+          if (images.length > 0) {
+            currentIndex = 0;
+            setHeroImage(images[currentIndex]);
+
+            interval = setInterval(() => {
+              currentIndex =
+                (currentIndex + 1) % images.length;
+
+              setHeroImage(images[currentIndex]);
+            }, 4500);
           }
         }
       } catch (error) {
@@ -129,7 +165,13 @@ function App() {
       }
     };
 
-    getHeroImage();
+    getHeroImages();
+
+    return () => {
+      if (interval) {
+        clearInterval(interval);
+      }
+    };
   }, []);
 
   const clearSearch = () => {
@@ -179,9 +221,24 @@ function App() {
               className="input"
               value={search}
               onChange={(e) => setSearch(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter') {
+                  document
+                    .querySelector('.section2')
+                    .scrollIntoView({ behavior: 'smooth' });
+                }
+              }}
             />
 
-            <button className="main-btn">
+            <button
+              className="main-btn"
+              onClick={() => {
+                section2Ref.current?.scrollIntoView({
+                  behavior: 'smooth',
+                  block: 'start',
+                });
+              }}
+            >
               Qidirish
             </button>
 
@@ -213,15 +270,14 @@ function App() {
       </main>
 
 
-      <section className="section2">
-
+      <section className="section2" ref={section2Ref}>
 
         <div className="category-btn">
 
           <button
             className={`chip ${activeCategory === 'hammasi'
-                ? 'active'
-                : ''
+              ? 'active'
+              : ''
               }`}
             onClick={() => setActiveCategory('hammasi')}
           >
@@ -234,8 +290,8 @@ function App() {
             <button
               key={cat}
               className={`chip ${activeCategory === cat
-                  ? 'active'
-                  : ''
+                ? 'active'
+                : ''
                 }`}
               onClick={() => setActiveCategory(cat)}
             >
