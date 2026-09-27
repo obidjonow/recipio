@@ -211,6 +211,79 @@
                     "Ziravorlar"
                 ],
                 "instructions": "Bug‘doyni yaxshilab yuvib, ivitiladi. Go‘sht va piyoz yog‘da qovuriladi. So‘ng bug‘doy va suv qo‘shilib, barcha masalliqlar yaxshilab pishguncha uzoq vaqt davomida aralashtirib qaynatiladi. Tayyor bo‘lgach, tuz va ziravorlar qo‘shiladi."
+            },
+            {
+                "id": 15,
+                "name": "Shavla",
+                "category": "Quyuq Taomlar",
+                "image": "https://zira.uz/wp-content/uploads/2018/10/shavla-14.jpg",
+                "ingredients": [
+                    "Guruch",
+                    "Go'sht",
+                    "Sabzi",
+                    "Piyoz",
+                    "Pomidor",
+                    "Yog'",
+                    "Tuz",
+                    "Ziravorlar"
+                ],
+                "instructions": [
+                    "Go'shtni mayda bo'laklarga bo'lib qovuring.",
+                    "Piyoz va sabzini qo'shib qovuring.",
+                    "Pomidor va ziravorlarni qo'shing.",
+                    "Suv quyib, masalliqlarni qaynatib oling.",
+                    "Yuvilgan guruchni soling.",
+                    "Guruch yumshaguncha pishiring.",
+                    "Shavlani issiq holda dasturxonga torting."
+                ]
+            },
+            {
+                "id": 16,
+                "name": "Qovurdoq",
+                "category": "Quyuq Taomlar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXnkOCbvU_LhknVzgoLa7iptwQzKb5e-G0sKWLcVEE3OLC56rwRzIzc6jV&s=10",
+                "ingredients": [
+                    "Qo'y go'shti",
+                    "Kartoshka",
+                    "Piyoz",
+                    "Yog'",
+                    "Tuz",
+                    "Qora murch",
+                    "Ziravorlar"
+                ],
+                "instructions": [
+                    "Go'shtni mayda bo'laklarga bo'ling.",
+                    "Qozonda yog'ni qizdirib, go'shtni qovuring.",
+                    "Piyozni qo'shib, birga qovuring.",
+                    "Kartoshkani to'g'rab soling.",
+                    "Tuz, murch va ziravorlar qo'shing.",
+                    "Masalliqlar yaxshilab pishguncha qovuring.",
+                    "Qovurdoqni issiq holda torting."
+                ]
+            },
+            {
+                "id": 17,
+                "name": "Tuxum barak",
+                "category": "Quyuq Taomlar",
+                "image": "https://i.ytimg.com/vi/eA1-8TJxC9A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBpVb7OVhXLBoZvd5ltwLwtQzTtSw",
+                "ingredients": [
+                    "Un",
+                    "Tuxum",
+                    "Sut",
+                    "Piyoz",
+                    "Yog'",
+                    "Tuz",
+                    "Qora murch"
+                ],
+                "instructions": [
+                    "Un, suv va tuzdan xamir qorib oling.",
+                    "Xamirni yupqa qilib yoying.",
+                    "Tuxum, sut, piyoz, tuz va murchni aralashtiring.",
+                    "Xamirni kvadrat shaklda kesing.",
+                    "Ichiga tuxumli masalliqdan solib, chetlarini yoping.",
+                    "Qaynoq suvda pishiring.",
+                    "Tuxum barakni issiq holda dasturxonga torting."
+                ]
             }
         ],
         [
