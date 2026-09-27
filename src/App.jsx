@@ -9,9 +9,23 @@ const normalize = (text = '') => {
   return text
     .toLowerCase()
     .replace(/[‘’ʻ`]/g, "'")
+    .replace(/x/g, 'h')
     .replace(/'/g, '')
     .replace(/\s+/g, ' ')
     .trim();
+};
+
+const SEARCH_SYNONYMS = {
+  non: ['non', 'patir'],
+  patir: ['non', 'patir'],
+
+  halim: ['halim', 'xalim'],
+  xalim: ['halim', 'xalim'],
+
+  gosht: ['gosht', 'go‘sht', 'go\'sht'],
+
+  osh: ['osh', 'palov'],
+  palov: ['palov', 'osh']
 };
 
 const CATEGORIES = [
@@ -91,9 +105,13 @@ function App() {
     ${keywords || ""}
   `;
 
+    const searchVariants = SEARCH_SYNONYMS[searchText] || [searchText];
+
     return (
       categoryMatch &&
-      searchableText.includes(searchText)
+      searchVariants.some((variant) =>
+        searchableText.includes(normalize(variant))
+      )
     );
   });
 
