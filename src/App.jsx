@@ -361,7 +361,7 @@ function App() {
           <div className="empty-result">
 
             <div className="empty-icon">
-              🔎
+              ✦
             </div>
 
             <h2>
