@@ -820,6 +820,23 @@
                     "Tuz"
                 ],
                 "instructions": "Bodring va pomidorni mayda yoki o'rtacha bo'laklarga to'g'rang. Piyoz, ko'k piyoz, kashnich va ukropni maydalang. Barcha masalliqlarni bir idishga solib aralashtiring. Tuz sepib, yangi holatda dasturxonga torting."
+            },
+            {
+                "id": 6,
+                "name": "Мужской каприз salati",
+                "category": "Salatlar",
+                "ingredients": [
+                    "200gr indeyka",
+                    "200gr kapchoniy kalbasa",
+                    "200gr qattiq sir",
+                    "200gr qazi yoki go’sht",
+                    "mayonez",
+                    "3ta bodring"
+                ],
+                "instructions": [
+                    "Hamma masalliqlar mayda samoncha shaklida to’g’raladi, mayonez bilan aralashtriladi."
+                ],
+                "image": "https://zira.uz/wp-content/uploads/2018/01/mujskoy-kapriz-4.jpg"
             }
         ],
         [
