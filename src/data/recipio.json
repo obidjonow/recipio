@@ -388,7 +388,7 @@
                     "Zira",
                     "Ko‘katlar"
                 ],
-                "steps": [
+                "instructions": [
                     "No‘xotni oldindan 6–8 soat suvga ivitib qo‘ying.",
                     "Qozonga go‘shtni solib, biroz qovuring.",
                     "Maydalangan piyoz va sabzini qo‘shib, bir necha daqiqa qovuring.",
@@ -682,6 +682,61 @@
                     "O‘simlik yog‘i"
                 ],
                 "instructions": "Un, suv va tuzdan yumshoq xamir qoring va tindiring. Xamirni juda yupqa qilib yoying. Ustiga eritilgan sariyog‘ surting. Mayda to‘g‘ralgan piyozni seping. Xamirni o‘rab, yana yoying. Qatlamli xamirni tovaga solib, ikki tomonini qizarguncha pishiring."
+            },
+            {
+                "id": 14,
+                "name": "Go‘shtli blinchik",
+                "category": "Xamirli Taomlar",
+                "ingredients": [
+                    "500 ml sut",
+                    "2 dona tuxum",
+                    "200 g un",
+                    "2 osh qoshiq o‘simlik yog‘i",
+                    "1 chimdim tuz",
+                    "300 g mol go‘shti",
+                    "1 dona piyoz",
+                    "1 osh qoshiq o‘simlik yog‘i",
+                    "Tuz",
+                    "Qora murch"
+                ],
+                "instructions": [
+                    "Tuxum, sut, un, tuz va o‘simlik yog‘idan suyuq xamir tayyorlang.",
+                    "Qizdirilgan tovaga oz miqdorda xamir quyib, yupqa blinchiklarni pishiring.",
+                    "Go‘shtni mayda qilib to‘g‘rang yoki qiymadan foydalaning.",
+                    "Piyozni mayda to‘g‘rab, yog‘da qovuring.",
+                    "Go‘shtni qo‘shib, tuz va qora murch soling.",
+                    "Go‘sht to‘liq pishguncha qovuring.",
+                    "Tayyor go‘shtli nachinkani blinchik ichiga solib o‘rang.",
+                    "Xohishga ko‘ra o‘ralgan blinchiklarni yana tovaga solib, ikki tomonini biroz qizartiring."
+                ],
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxolnF0krW0OrwGaSyhy3mqr-yQvLvuuUd2eTSg1LDWjHHPRGnANZdGzt&s=10"
+            },
+            {
+                "id": 15,
+                "name": "Tvorogli blinchik",
+                "category": "Xamirli Taomlar",
+                "ingredients": [
+                    "500 ml sut",
+                    "2 dona tuxum",
+                    "200 g un",
+                    "2 osh qoshiq shakar",
+                    "2 osh qoshiq o‘simlik yog‘i",
+                    "1 chimdim tuz",
+                    "300 g tvorog",
+                    "2 osh qoshiq shakar",
+                    "1 dona tuxum sarig‘i",
+                    "1 choy qoshiq vanilin"
+                ],
+                "instructions": [
+                    "Tuxum, sut, un, shakar, tuz va o‘simlik yog‘idan yupqa xamir tayyorlang.",
+                    "Qizdirilgan tovaga xamir quyib, blinchiklarni ikki tomonlama pishiring.",
+                    "Tvorog, shakar, tuxum sarig‘i va vanilinni aralashtiring.",
+                    "Tayyor tvorogli aralashmani blinchikning ichiga soling.",
+                    "Blinchiklarni o‘rab chiqing.",
+                    "Xohishga ko‘ra ularni tovaga solib biroz qizartiring.",
+                    "Ustiga smetana, asal yoki murabbo qo‘shib dasturxonga torting."
+                ],
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSArhTrSm8i1uDi3tk-OtDAiEBNLUw2GiRBfXI7SCVd0rUIJdxesc-ODXZ&s=10"
             }
         ],
         [
@@ -868,6 +923,137 @@
                     "100g shokolad"
                 ],
                 "instructions": "Tuxum va shakarni aralashtiring. Sut va yog‘ qo‘shing. Un, kakao va qabartmani solib aralashtiring. Mayda to‘g‘ralgan shokoladni qo‘shing. Tayyor xamirni muffin qoliplariga bo‘lib soling. 180°C da 20-25 daqiqa pishiring."
+            },
+            {
+                "id": 7,
+                "name": "Kruassan",
+                "category": "Pishiriqlar",
+                "ingredients": [
+                    "500 g un",
+                    "250 ml sut",
+                    "50 g shakar",
+                    "10 g quruq xamirturush",
+                    "1 dona tuxum",
+                    "250 g sariyog‘",
+                    "1 choy qoshiq tuz"
+                ],
+                "instructions": [
+                    "Iliq sutga shakar va xamirturushni solib aralashtiring.",
+                    "Un, tuxum va tuz qo‘shib yumshoq xamir qorib oling.",
+                    "Xamirni dam oldirib, sariyog‘ bilan qatlamlang.",
+                    "Xamirni yoyib uchburchak shakllarga kesing va o‘rang.",
+                    "Kruassanlarni tuxum bilan surting.",
+                    "180°C da 20–25 daqiqa davomida pishiring."
+                ],
+                "image": "https://safiabakery.uz/_next/image?url=https%3A%2F%2Fweb.safiadelivery.com%2Fapi%2Fimage%2F9577178c-c4a9-4ee9-84b4-c42e927b87ae.jpg&w=3840&q=90"
+            },
+            {
+                "id": 8,
+                "name": "Pahlava",
+                "category": "Pishiriqlar",
+                "ingredients": [
+                    "500 g un",
+                    "2 dona tuxum",
+                    "200 g sariyog‘",
+                    "200 g yong‘oq",
+                    "150 g shakar",
+                    "100 ml sut",
+                    "2 osh qoshiq asal",
+                    "1 choy qoshiq dolchin"
+                ],
+                "instructions": [
+                    "Un, tuxum, sut va sariyog‘dan yumshoq xamir tayyorlang.",
+                    "Xamirni bir nechta yupqa qatlamga ajrating.",
+                    "Har bir qatlam orasiga maydalangan yong‘oq va shakar seping.",
+                    "Qatlamlarni qolipga joylashtirib, ustiga eritilgan sariyog‘ surting.",
+                    "Pahlavani romb shaklida kesing.",
+                    "180°C da 35–40 daqiqa pishiring.",
+                    "Tayyor pahlava ustiga asal yoki shakarli sirop quying."
+                ],
+                "image": "https://safiabakery.uz/_next/image?url=https%3A%2F%2Fweb.safiadelivery.com%2Fapi%2Fimage%2Fd26513b2-8696-48bd-8320-b11928874c4a.jpg&w=3840&q=90"
+            },
+            {
+                "id": 9,
+                "name": "Matilda torti",
+                "category": "Pishiriqlar",
+                "ingredients": [
+                    "200 g un",
+                    "200 g shakar",
+                    "60 g kakao",
+                    "2 dona tuxum",
+                    "200 ml sut",
+                    "100 ml o‘simlik yog‘i",
+                    "150 ml qaynoq suv",
+                    "1 choy qoshiq pishirish kukuni",
+                    "1 choy qoshiq soda",
+                    "1 chimdim tuz",
+                    "300 ml qaymoq",
+                    "200 g shokolad"
+                ],
+                "instructions": [
+                    "Tuxum va shakarni yaxshilab ko‘pirtiring.",
+                    "Sut va o‘simlik yog‘ini qo‘shib aralashtiring.",
+                    "Un, kakao, pishirish kukuni, soda va tuzni alohida aralashtiring.",
+                    "Quruq masalliqlarni suyuq aralashmaga qo‘shing.",
+                    "Qaynoq suvni oz-ozdan qo‘shib aralashtiring.",
+                    "Xamirni qolipga quying va 180°C da 30–35 daqiqa pishiring.",
+                    "Krem uchun qaymoqni isitib, shokolad qo‘shing va bir xil massa bo‘lguncha aralashtiring.",
+                    "Biskvit sovigach, qatlamlarga bo‘ling va orasiga shokoladli krem surting.",
+                    "Tortning usti va yon tomonlarini ham krem bilan qoplang.",
+                    "Tortni muzlatkichda bir necha soat tindirib, so‘ng dasturxonga torting."
+                ],
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwP3j4PHIHRbGKuLM6UpD8R1Z9YQNfjkOhAbtunEc-B1u_9N56j6F98fo&s=10"
+            },
+            {
+                "id": 10,
+                "name": "Mevali tort",
+                "category": "Pishiriqlar",
+                "ingredients": [
+                    "4 dona tuxum",
+                    "150 g shakar",
+                    "150 g un",
+                    "1 choy qoshiq pishirish kukuni",
+                    "300 ml qaymoq",
+                    "100 g shakar kukuni",
+                    "1 dona banan",
+                    "150 g qulupnay",
+                    "1 dona kivi",
+                    "100 g shaftoli"
+                ],
+                "instructions": [
+                    "Tuxum va shakarni ko‘pirtiring.",
+                    "Un va pishirish kukunini qo‘shib, xamir tayyorlang.",
+                    "180°C da 25–30 daqiqa pishiring.",
+                    "Biskvit sovigach, uni qatlamlarga bo‘ling.",
+                    "Qaymoq va shakar kukunidan krem tayyorlang.",
+                    "Mevalarni mayda bo‘laklarga kesing.",
+                    "Har bir qatlamga krem va mevalardan joylashtiring.",
+                    "Tortning ustini mevalar bilan bezating."
+                ],
+                "image": "https://balthazar.club/uploads/posts/2022-03/1646464463_4-balthazar-club-p-tort-bezatish-4.jpg"
+            },
+            {
+                "id": 11,
+                "name": "San-Sebastyan chizkeyk",
+                "category": "Pishiriqlar",
+                "ingredients": [
+                    "600 g krem-sir",
+                    "200 g shakar",
+                    "4 dona tuxum",
+                    "400 ml qaymoq",
+                    "20 g un",
+                    "1 choy qoshiq vanilin"
+                ],
+                "instructions": [
+                    "Krem-sir va shakarni bir xil massa bo‘lguncha aralashtiring.",
+                    "Tuxumlarni bittadan qo‘shib aralashtiring.",
+                    "Qaymoq, un va vanilin qo‘shing.",
+                    "Qolipni pergament qog‘oz bilan yoping va aralashmani quying.",
+                    "240°C da taxminan 30–35 daqiqa pishiring.",
+                    "Usti yaxshi qizarib, markazi biroz yumshoq qolishi kerak.",
+                    "To‘liq sovitib, muzlatkichda bir necha soat saqlang."
+                ],
+                "image": "https://japcake.ru/wp-content/uploads/2025/05/CHizkejk-San-Sebastyan-klassicheskij-1.jpg"
             }
         ],
         [

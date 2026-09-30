@@ -25,7 +25,15 @@ const SEARCH_SYNONYMS = {
   gosht: ['gosht', 'go‘sht', 'go\'sht'],
 
   osh: ['osh', 'palov'],
-  palov: ['palov', 'osh']
+  palov: ['palov', 'osh'],
+
+  bilinchik: ['bilinchik', 'blinchik'],
+  bil: ['blinchik'],
+  bili: ['blinchik'],
+  bilin: ['blinchik'],
+  bilinc: ['blinchik'],
+  bilinch: ['blinchik'],
+  bilinchi: ['blinchik']
 };
 
 const CATEGORIES = [
