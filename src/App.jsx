@@ -11,6 +11,7 @@ const normalize = (text = '') => {
     .replace(/[‘’ʻ`]/g, "'")
     .replace(/x/g, 'h')
     .replace(/'/g, '')
+    .replace(/[,;]+/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 };
@@ -22,18 +23,14 @@ const SEARCH_SYNONYMS = {
   halim: ['halim', 'xalim'],
   xalim: ['halim', 'xalim'],
 
-  gosht: ['gosht', 'go‘sht', 'go\'sht'],
+  gosht: ['gosht', "go'sht"],
 
-  osh: ['osh', 'palov'],
-  palov: ['palov', 'osh'],
+  osh: ['osh', 'oshi', 'palov', 'palovi', 'plov', 'plovi'],
+  palov: ['osh', 'oshi', 'palov', 'palovi', 'plov', 'plovi'],
+  plov: ['osh', 'oshi', 'palov', 'palovi', 'plov', 'plovi'],
 
   bilinchik: ['bilinchik', 'blinchik'],
-  bil: ['blinchik'],
-  bili: ['blinchik'],
-  bilin: ['blinchik'],
-  bilinc: ['blinchik'],
-  bilinch: ['blinchik'],
-  bilinchi: ['blinchik']
+  blinchik: ['bilinchik', 'blinchik'],
 };
 
 const CATEGORIES = [
@@ -86,43 +83,91 @@ function App() {
   const section2Ref = useRef(null);
 
 
-  const filteredMeals = ALL_MEALS.filter((meal) => {
-    const categoryMatch =
-      activeCategory === 'hammasi' ||
-      meal.category === activeCategory;
+const filteredMeals = ALL_MEALS.filter((meal) => {
+  if (
+    activeCategory !== 'hammasi' &&
+    meal.category !== activeCategory
+  ) {
+    return false;
+  }
 
-    const searchText = normalize(search);
+  const searchText = normalize(search);
 
-    if (!searchText) {
-      return categoryMatch;
+  if (!searchText) {
+    return true;
+  }
+
+  const name = normalize(meal.name);
+
+  const ingredients = (meal.ingredients || [])
+    .map((item) => normalize(item));
+
+  const keywords = (meal.keywords || [])
+    .map((item) => normalize(item));
+
+  const searchWords = searchText
+    .split(/\s+/)
+    .filter(Boolean);
+
+
+  const oshWords = [
+    'osh',
+    'oshlar',
+    'oshi',
+    'palov',
+    'palovi',
+    'plov',
+    'plovi'
+  ];
+
+  if (searchWords.length === 1 && oshWords.includes(searchWords[0])) {
+    return oshWords.some((word) => {
+      return name
+        .split(/\s+/)
+        .some((nameWord) => nameWord === word);
+    });
+  }
+
+  // ==========================================
+  // QOLGAN QIDIRUVLAR
+  // ==========================================
+
+  return searchWords.every((searchWord) => {
+
+    // Taom nomi
+    if (
+      name
+        .split(/\s+/)
+        .some((word) => word.includes(searchWord))
+    ) {
+      return true;
     }
 
-    const name = normalize(meal.name);
-
-    const ingredients = meal.ingredients
-      ?.map((ingredient) => normalize(ingredient))
-      .join(" ");
-
-    const keywords = meal.keywords
-      ?.map((keyword) => normalize(keyword))
-      .join(" ");
-
-    const searchableText = `
-    ${name}
-    ${ingredients || ""}
-    ${keywords || ""}
-  `;
-
-    const searchVariants = SEARCH_SYNONYMS[searchText] || [searchText];
-
-    return (
-      categoryMatch &&
-      searchVariants.some((variant) =>
-        searchableText.includes(normalize(variant))
+    // Ingredientlar
+    if (
+      ingredients.some((ingredient) =>
+        ingredient
+          .split(/\s+/)
+          .some((word) => word.includes(searchWord))
       )
-    );
-  });
+    ) {
+      return true;
+    }
 
+    // Keywords
+    if (
+      keywords.some((keyword) =>
+        keyword
+          .split(/\s+/)
+          .some((word) => word.includes(searchWord))
+      )
+    ) {
+      return true;
+    }
+
+    return false;
+  });
+});
 
   useEffect(() => {
     let images = [];
